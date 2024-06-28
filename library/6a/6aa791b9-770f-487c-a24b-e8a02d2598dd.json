@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "TaiXiu_v2",
+    "spriteFrames": [
+      "dia",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@47d80",
+      "icon_tai",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@9dc4f",
+      "icon_xiu",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@006dc",
+      "nenDia",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@287a1",
+      "tx_bgChat",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@85b3c",
+      "tx_bgInput2",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@037be",
+      "tx_bg_board",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@12ac4",
+      "tx_bg_input",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@0d103",
+      "tx_bg_logMain",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@65503",
+      "tx_bgphien",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@e7632",
+      "tx_ef_c",
+      "6aa791b9-770f-487c-a24b-e8a02d2598dd@8c189"
+    ]
+  }
+}

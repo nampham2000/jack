@@ -5,7 +5,8 @@
         "version": "Darwin Kernel Version 23.2.0: Wed Nov 15 21:53:34 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_T8103"
     },
     "sceneListMap": {
-        "b0bdeeee-05b9-415f-af2a-3b0806c58092": "/Users/waostudio/Desktop/jackbot/assets/Scene/MainGame.scene"
+        "b0bdeeee-05b9-415f-af2a-3b0806c58092": "/Users/waostudio/Desktop/jackbot/assets/Scene/MainGame.scene",
+        "0729e17c-6ce5-49b6-9846-030a7c8f5d71": "/Users/waostudio/Desktop/jackbot/assets/Scene/xocxoc.scene"
     },
     "deviceMd5": "f8a15c342a60330548d170d60a9dc985"
 }

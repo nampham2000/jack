@@ -2573,6 +2573,27 @@
     ],
     "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/chondong.plist": [
       "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/chondong.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.fnt": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.json": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.atlas"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.fnt": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.plist": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.plist": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.plist": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.png"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.plist": [
+      "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.png"
     ]
   },
   "uuid": {
@@ -3818,6 +3839,9 @@
     ],
     "/Users/waostudio/Desktop/jackbot/assets/Texture/viprik/Game/DaoHaiTac/Animation/icon_slot/ICON9/Spine/icon slot.json": [
       "9c26caa8-4078-4d73-b0e2-a0f5536092fa@6c48a"
+    ],
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.json": [
+      "0a784e2d-ee39-43c3-9a1c-9f193301916d@6c48a"
     ]
   }
 }

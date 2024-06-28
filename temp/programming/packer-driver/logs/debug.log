@@ -1642,3 +1642,511 @@ Feature changed: false
 13:25:07 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
 13:25:07 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
 13:25:07 debug: Target(preview) ends with cost 72.48095899820328ms.
+13:46:37 debug: Dispatch build request for time accumulated 1 asset changes.
+13:46:37 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+13:46:37 debug: Target(editor) build started.
+13:46:37 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 09:10:57 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 09:32:27 GMT+0800 (Indochina Time)
+13:46:37 debug: Inspect cce:/internal/x/prerequisite-imports
+13:46:37 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+13:46:37 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+13:46:37 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+13:46:37 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+13:46:37 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+13:46:37 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+13:46:37 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Target(editor) ends with cost 153.78512501716614ms.
+13:46:38 debug: Target(preview) build started.
+13:46:38 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 09:10:57 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 09:32:27 GMT+0800 (Indochina Time)
+13:46:38 debug: Inspect cce:/internal/x/prerequisite-imports
+13:46:38 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+13:46:38 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+13:46:38 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+13:46:38 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+13:46:38 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+13:46:38 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+13:46:38 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+13:46:38 debug: Target(preview) ends with cost 191.81650000810623ms.
+14:14:44 debug: Dispatch build request for time accumulated 1 asset changes.
+14:14:44 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+14:14:44 debug: Target(editor) build started.
+14:14:44 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 09:32:27 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 10:00:33 GMT+0800 (Indochina Time)
+14:14:44 debug: Inspect cce:/internal/x/prerequisite-imports
+14:14:44 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+14:14:44 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts. Last mtime: Fri Jun 28 2024 13:25:05 GMT+0700 (Indochina Time)@7f0eb963-dbdb-4789-99c8-7ba07d29c810, Current mtime: Fri Jun 28 2024 14:14:41 GMT+0700 (Indochina Time)@7f0eb963-dbdb-4789-99c8-7ba07d29c810
+14:14:44 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+14:14:44 debug: Target(editor) ends with cost 205.6591249704361ms.
+14:14:44 debug: Target(preview) build started.
+14:14:44 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 09:32:27 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 10:00:33 GMT+0800 (Indochina Time)
+14:14:44 debug: Inspect cce:/internal/x/prerequisite-imports
+14:14:44 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+14:14:44 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts. Last mtime: Fri Jun 28 2024 13:25:05 GMT+0700 (Indochina Time)@7f0eb963-dbdb-4789-99c8-7ba07d29c810, Current mtime: Fri Jun 28 2024 14:14:41 GMT+0700 (Indochina Time)@7f0eb963-dbdb-4789-99c8-7ba07d29c810
+14:14:44 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts as cce:/internal/x/cc.
+14:14:44 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+14:14:44 debug: Target(preview) ends with cost 307.1223329901695ms.
+14:16:50 debug: Dispatch build request for time accumulated 1 asset changes.
+14:16:50 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+14:16:50 debug: Target(editor) build started.
+14:16:50 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 10:00:33 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 10:02:40 GMT+0800 (Indochina Time)
+14:16:50 debug: Inspect cce:/internal/x/prerequisite-imports
+14:16:50 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+14:16:50 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+14:16:50 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+14:16:50 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+14:16:50 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+14:16:50 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+14:16:50 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 13:46:37 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 14:16:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+14:16:50 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+14:16:50 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:50 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:50 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:50 debug: Target(editor) ends with cost 390.5148749947548ms.
+14:16:50 debug: Target(preview) build started.
+14:16:50 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 10:00:33 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 10:02:40 GMT+0800 (Indochina Time)
+14:16:50 debug: Inspect cce:/internal/x/prerequisite-imports
+14:16:51 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+14:16:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+14:16:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+14:16:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+14:16:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+14:16:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+14:16:51 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 13:46:37 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 14:16:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+14:16:51 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+14:16:51 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:51 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:51 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+14:16:51 debug: Target(preview) ends with cost 190.76658296585083ms.
+16:09:59 debug: Dispatch build request for time accumulated 1 asset changes.
+16:09:59 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+16:09:59 debug: Target(editor) build started.
+16:09:59 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 10:02:40 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 11:55:49 GMT+0800 (Indochina Time)
+16:09:59 debug: Inspect cce:/internal/x/prerequisite-imports
+16:09:59 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+16:09:59 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 14:16:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 16:09:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+16:09:59 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+16:09:59 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:09:59 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:09:59 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:09:59 debug: Target(editor) ends with cost 213.9618330001831ms.
+16:09:59 debug: Target(preview) build started.
+16:09:59 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 10:02:40 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 11:55:49 GMT+0800 (Indochina Time)
+16:09:59 debug: Inspect cce:/internal/x/prerequisite-imports
+16:09:59 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+16:09:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+16:09:59 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 14:16:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 16:09:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+16:09:59 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+16:09:59 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:10:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:10:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+16:10:00 debug: Target(preview) ends with cost 359.3019580245018ms.
+17:14:04 debug: Dispatch build request for time accumulated 1 asset changes.
+17:14:04 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:14:04 debug: Target(editor) build started.
+17:14:04 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 11:55:49 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 12:59:53 GMT+0800 (Indochina Time)
+17:14:04 debug: Inspect cce:/internal/x/prerequisite-imports
+17:14:04 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:14:04 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 16:09:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 16:26:12 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:14:04 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Target(editor) ends with cost 267.24549996852875ms.
+17:14:04 debug: Target(preview) build started.
+17:14:04 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 11:55:49 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 12:59:54 GMT+0800 (Indochina Time)
+17:14:04 debug: Inspect cce:/internal/x/prerequisite-imports
+17:14:04 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:14:04 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:14:04 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 16:09:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 16:26:12 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:14:04 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:14:04 debug: Target(preview) ends with cost 276.76754200458527ms.
+17:27:17 debug: Dispatch build request for time accumulated 1 asset changes.
+17:27:17 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:27:17 debug: Target(editor) build started.
+17:27:17 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 12:59:53 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:13:06 GMT+0800 (Indochina Time)
+17:27:17 debug: Inspect cce:/internal/x/prerequisite-imports
+17:27:17 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:27:17 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 16:26:12 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:27:11 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:27:17 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Target(editor) ends with cost 245.11416602134705ms.
+17:27:17 debug: Target(preview) build started.
+17:27:17 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 12:59:54 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:13:07 GMT+0800 (Indochina Time)
+17:27:17 debug: Inspect cce:/internal/x/prerequisite-imports
+17:27:17 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:27:17 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:27:17 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 16:26:12 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:27:11 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:27:17 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:27:17 debug: Target(preview) ends with cost 317.28799998760223ms.
+17:29:33 debug: Dispatch build request for time accumulated 1 asset changes.
+17:29:33 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:29:33 debug: Target(editor) build started.
+17:29:33 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:13:06 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:15:22 GMT+0800 (Indochina Time)
+17:29:33 debug: Inspect cce:/internal/x/prerequisite-imports
+17:29:33 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:29:33 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:27:11 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:29:20 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:29:33 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Target(editor) ends with cost 261.4510409832001ms.
+17:29:33 debug: Target(preview) build started.
+17:29:33 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:13:07 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:15:23 GMT+0800 (Indochina Time)
+17:29:33 debug: Inspect cce:/internal/x/prerequisite-imports
+17:29:33 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:29:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:29:33 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:27:11 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:29:20 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:29:33 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:29:33 debug: Target(preview) ends with cost 355.03799998760223ms.
+17:30:34 debug: Dispatch build request for time accumulated 1 asset changes.
+17:30:34 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:30:34 debug: Target(editor) build started.
+17:30:34 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:15:22 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:16:23 GMT+0800 (Indochina Time)
+17:30:34 debug: Inspect cce:/internal/x/prerequisite-imports
+17:30:34 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:30:34 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:29:20 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:30:31 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:30:34 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Target(editor) ends with cost 214.6267499923706ms.
+17:30:34 debug: Target(preview) build started.
+17:30:34 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:15:23 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:16:23 GMT+0800 (Indochina Time)
+17:30:34 debug: Inspect cce:/internal/x/prerequisite-imports
+17:30:34 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:30:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:30:34 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:29:20 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:30:31 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:30:34 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:30:34 debug: Target(preview) ends with cost 235.89662504196167ms.
+17:33:51 debug: Dispatch build request for time accumulated 1 asset changes.
+17:33:51 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:33:51 debug: Target(editor) build started.
+17:33:51 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:16:23 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:19:41 GMT+0800 (Indochina Time)
+17:33:51 debug: Inspect cce:/internal/x/prerequisite-imports
+17:33:51 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:33:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:33:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:33:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:33:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:33:51 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:33:51 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:30:31 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:33:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:33:51 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Target(editor) ends with cost 279.8465830087662ms.
+17:33:52 debug: Target(preview) build started.
+17:33:52 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:16:23 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:19:41 GMT+0800 (Indochina Time)
+17:33:52 debug: Inspect cce:/internal/x/prerequisite-imports
+17:33:52 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:33:52 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:33:52 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:33:52 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:33:52 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:33:52 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:33:52 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:30:31 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:33:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:33:52 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:33:52 debug: Target(preview) ends with cost 302.8088750243187ms.
+17:35:15 debug: Dispatch build request for time accumulated 1 asset changes.
+17:35:15 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:35:15 debug: Target(editor) build started.
+17:35:15 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:19:41 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:21:05 GMT+0800 (Indochina Time)
+17:35:15 debug: Inspect cce:/internal/x/prerequisite-imports
+17:35:15 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:35:15 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:35:15 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:35:15 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:35:15 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:35:15 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:35:15 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:33:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:35:14 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:35:15 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Target(editor) ends with cost 274.98812502622604ms.
+17:35:16 debug: Target(preview) build started.
+17:35:16 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:19:41 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:21:05 GMT+0800 (Indochina Time)
+17:35:16 debug: Inspect cce:/internal/x/prerequisite-imports
+17:35:16 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:35:16 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:35:16 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:35:16 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:35:16 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:35:16 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:35:16 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:33:48 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:35:14 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:35:16 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:35:16 debug: Target(preview) ends with cost 198.0977080464363ms.
+17:46:59 debug: Dispatch build request for time accumulated 1 asset changes.
+17:46:59 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:46:59 debug: Target(editor) build started.
+17:46:59 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:21:05 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:32:49 GMT+0800 (Indochina Time)
+17:46:59 debug: Inspect cce:/internal/x/prerequisite-imports
+17:46:59 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:46:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:46:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:46:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:46:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:46:59 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:46:59 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:35:14 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:46:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:46:59 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Target(editor) ends with cost 329.6056660413742ms.
+17:47:00 debug: Target(preview) build started.
+17:47:00 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:21:05 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:32:49 GMT+0800 (Indochina Time)
+17:47:00 debug: Inspect cce:/internal/x/prerequisite-imports
+17:47:00 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:47:00 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:47:00 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:47:00 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:47:00 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:47:00 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:47:00 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:35:14 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:46:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:47:00 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:47:00 debug: Target(preview) ends with cost 329.6779589653015ms.
+17:50:54 debug: Dispatch build request for time accumulated 1 asset changes.
+17:50:54 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:50:54 debug: Target(editor) build started.
+17:50:54 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:32:49 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:36:44 GMT+0800 (Indochina Time)
+17:50:54 debug: Inspect cce:/internal/x/prerequisite-imports
+17:50:54 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:50:54 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:46:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:50:50 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:50:54 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Target(editor) ends with cost 220.97974997758865ms.
+17:50:54 debug: Target(preview) build started.
+17:50:54 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:32:49 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:36:44 GMT+0800 (Indochina Time)
+17:50:54 debug: Inspect cce:/internal/x/prerequisite-imports
+17:50:54 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:50:54 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:50:54 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:46:57 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:50:50 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:50:54 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:50:54 debug: Target(preview) ends with cost 139.54037499427795ms.
+17:58:33 debug: Dispatch build request for time accumulated 1 asset changes.
+17:58:33 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:58:33 debug: Target(editor) build started.
+17:58:33 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:36:44 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:44:23 GMT+0800 (Indochina Time)
+17:58:33 debug: Inspect cce:/internal/x/prerequisite-imports
+17:58:33 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:58:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:58:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:58:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:58:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:58:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:58:33 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:50:50 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:58:32 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:58:33 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Target(editor) ends with cost 297.1092090010643ms.
+17:58:34 debug: Target(preview) build started.
+17:58:34 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:36:44 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:44:23 GMT+0800 (Indochina Time)
+17:58:34 debug: Inspect cce:/internal/x/prerequisite-imports
+17:58:34 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:58:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:58:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:58:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:58:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:58:34 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:58:34 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:50:50 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:58:32 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:58:34 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:58:34 debug: Target(preview) ends with cost 346.74504202604294ms.
+17:59:43 debug: Dispatch build request for time accumulated 1 asset changes.
+17:59:43 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+17:59:43 debug: Target(editor) build started.
+17:59:43 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:44:23 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:45:33 GMT+0800 (Indochina Time)
+17:59:43 debug: Inspect cce:/internal/x/prerequisite-imports
+17:59:43 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:59:43 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:58:32 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:59:41 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:59:43 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Target(editor) ends with cost 186.82058399915695ms.
+17:59:43 debug: Target(preview) build started.
+17:59:43 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:44:23 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:45:33 GMT+0800 (Indochina Time)
+17:59:43 debug: Inspect cce:/internal/x/prerequisite-imports
+17:59:43 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+17:59:43 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+17:59:43 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:58:32 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 17:59:41 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+17:59:43 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+17:59:43 debug: Target(preview) ends with cost 155.27933299541473ms.
+18:08:33 debug: Dispatch build request for time accumulated 1 asset changes.
+18:08:33 debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+18:08:33 debug: Target(editor) build started.
+18:08:33 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:45:33 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:54:23 GMT+0800 (Indochina Time)
+18:08:33 debug: Inspect cce:/internal/x/prerequisite-imports
+18:08:33 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+18:08:33 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:59:41 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 18:08:24 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+18:08:33 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Target(editor) ends with cost 174.94033300876617ms.
+18:08:33 debug: Target(preview) build started.
+18:08:33 debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Sat Jan 03 1970 13:45:33 GMT+0800 (Indochina Time), Current mtime: Sat Jan 03 1970 13:54:23 GMT+0800 (Indochina Time)
+18:08:33 debug: Inspect cce:/internal/x/prerequisite-imports
+18:08:33 debug: Resolve file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts.
+18:08:33 debug: Resolve file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts from cce:/internal/x/prerequisite-imports as file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.
+18:08:33 debug: Detected change: file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts. Last mtime: Fri Jun 28 2024 17:59:41 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0, Current mtime: Fri Jun 28 2024 18:08:24 GMT+0700 (Indochina Time)@6c579757-2f46-4741-b2fe-8b0df7c76ac0
+18:08:33 debug: Inspect file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Resolve cc from file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts as cce:/internal/x/cc.
+18:08:33 debug: Target(preview) ends with cost 213.7213749885559ms.

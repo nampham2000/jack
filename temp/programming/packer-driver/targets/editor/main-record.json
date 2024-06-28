@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 177057020.30445802,
+      "mTimestamp": 194063011.25791597,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -712,6 +712,20 @@
               "column": 531
             }
           }
+        },
+        {
+          "value": "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 547
+            },
+            "end": {
+              "line": 5,
+              "column": 621
+            }
+          }
         }
       ],
       "type": "esm",
@@ -748,6 +762,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts"
           },
           "messages": []
         }
@@ -859,7 +880,7 @@
     },
     "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts": {
       "mTimestamp": {
-        "mtime": 1719555905627.2976,
+        "mtime": 1719558881833.7422,
         "uuid": "7f0eb963-dbdb-4789-99c8-7ba07d29c810"
       },
       "chunkId": "cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9",
@@ -874,12 +895,12 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 1,
-              "column": 68
+              "line": 9,
+              "column": 7
             },
             "end": {
-              "line": 1,
-              "column": 72
+              "line": 9,
+              "column": 11
             }
           }
         }
@@ -983,6 +1004,58 @@
             },
             "end": {
               "line": 7,
+              "column": 11
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts": {
+      "mTimestamp": {
+        "mtime": 1719572904032.4094,
+        "uuid": "6c579757-2f46-4741-b2fe-8b0df7c76ac0"
+      },
+      "chunkId": "d16cd2b78495461f211331584b52de9cf4e77740",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 7
+            },
+            "end": {
+              "line": 19,
               "column": 11
             }
           }

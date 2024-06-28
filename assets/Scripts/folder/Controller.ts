@@ -1,4 +1,12 @@
-import { _decorator, Button, Component, EditBox, Label, Node } from "cc";
+import {
+  _decorator,
+  Button,
+  Component,
+  director,
+  EditBox,
+  Label,
+  Node,
+} from "cc";
 const { ccclass, property } = _decorator;
 
 @ccclass("Controller")
@@ -387,5 +395,8 @@ export class Controller extends Component {
   closeshop() {
     this.shopNode.active = false;
     this.dialog.active = false;
+  }
+  loadscene() {
+    director.loadScene("xocxoc");
   }
 }

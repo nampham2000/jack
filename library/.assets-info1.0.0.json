@@ -25822,15 +25822,15 @@
       "uuid": "f2bba354-b5d3-4584-809e-c2e50f26828c"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Scene": {
-      "time": 1718162898000,
+      "time": 1719557132334.5383,
       "uuid": "34dfdc37-41b6-4901-8fdc-2e59188eeed5"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Scripts": {
-      "time": 1719386696598.758,
+      "time": 1719557197867.498,
       "uuid": "90bf829f-eb46-4627-a615-905de7e840d7"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Texture": {
-      "time": 1718163436000,
+      "time": 1719557223644.4785,
       "uuid": "7b91d076-8853-435f-8fb5-7945650057b4"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Fonts/Panda": {
@@ -26126,7 +26126,7 @@
       "uuid": "fd893ac4-4c7a-4374-abf0-24890f9a5d29"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/XocXoc": {
-      "time": 1718163432000,
+      "time": 1719557937241.465,
       "uuid": "2bdf18d3-4acf-4e3b-9311-7cda430c13ff"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/Zeus": {
@@ -29705,7 +29705,7 @@
       "uuid": "bf5ab20f-06f1-4ab1-86b4-26bb216e9f19"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Scene/MainGame.scene": {
-      "time": 1719555922756.1682,
+      "time": 1719573100088.4426,
       "uuid": "b0bdeeee-05b9-415f-af2a-3b0806c58092"
     },
     "/Users/waostudio/Desktop/jackbot/assets/Texture/singleColor.png": {
@@ -51644,7 +51644,7 @@
       "time": 1718696533453.2908
     },
     "/Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts": {
-      "time": 1719555905627.2976,
+      "time": 1719558881833.7422,
       "uuid": "7f0eb963-dbdb-4789-99c8-7ba07d29c810"
     },
     "/Users/waostudio/Desktop/jackbot/assets/animation.meta": {
@@ -51681,6 +51681,223 @@
     "/Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts": {
       "time": 1719386934105.741,
       "uuid": "caa09c91-ebc3-481b-815e-2422b83614de"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scene/xocxoc.scene.meta": {
+      "time": 1719557132334.5908
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scene/xocxoc.scene": {
+      "time": 1719571984779.1892,
+      "uuid": "0729e17c-6ce5-49b6-9846-030a7c8f5d71"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001.meta": {
+      "time": 1719557184226.2083
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001/XocXoc.meta": {
+      "time": 1719557184222.9324
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001/XocXoc/XocDia.anim.meta": {
+      "time": 1719557184223.797
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001": {
+      "time": 1719557184223.1726,
+      "uuid": "3e2f43dd-6411-4b29-b709-bc978cea2c48"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001/XocXoc": {
+      "time": 1719557184223.9705,
+      "uuid": "c50177a0-bc5e-4cc4-89b5-49b543940cdd"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Animation-001/XocXoc/XocDia.anim": {
+      "time": 1719557184224.8735,
+      "uuid": "04e414cc-3449-4588-8339-df91a5977e88"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scripts/scripts.meta": {
+      "time": 1719557197867.545
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts.meta": {
+      "time": 1719557197865.4045
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scripts/scripts": {
+      "time": 1719557197865.6487,
+      "uuid": "11590b11-cac0-4566-b5bd-9e046d32e33f"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts": {
+      "time": 1719572904032.4094,
+      "uuid": "6c579757-2f46-4741-b2fe-8b0df7c76ac0"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu.meta": {
+      "time": 1719557223644.517
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/Event.meta": {
+      "time": 1719557223651.4055
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW.meta": {
+      "time": 1719557223651.6907
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.plist.meta": {
+      "time": 1719557223952.1477
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.png.meta": {
+      "time": 1719557223778.3752
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_title.png.meta": {
+      "time": 1719557223729.3608
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.plist.meta": {
+      "time": 1719557223757.0332
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.png.meta": {
+      "time": 1719557223743.694
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/money-2.png.meta": {
+      "time": 1719557223756.2393
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/title-result.png.meta": {
+      "time": 1719557223760.6646
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/Event/Sukien-RongThan.png.meta": {
+      "time": 1719557223821.1533
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/0.png.meta": {
+      "time": 1719557223825.1843
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.atlas.meta": {
+      "time": 1719557223660.1868
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.json.meta": {
+      "time": 1719557223660.4001
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.png.meta": {
+      "time": 1719557223863.1016
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.plist.meta": {
+      "time": 1719557223922.9333
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.png.meta": {
+      "time": 1719557223867.419
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/diatx.png.meta": {
+      "time": 1719557223869.9553
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.fnt.meta": {
+      "time": 1719557223869.6313
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png.meta": {
+      "time": 1719557223883.4956
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.fnt.meta": {
+      "time": 1719557223873.778
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png.meta": {
+      "time": 1719557223887.9314
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.plist.meta": {
+      "time": 1719557223928.4863
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.png.meta": {
+      "time": 1719557223913.8708
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu": {
+      "time": 1719557223642.2844,
+      "uuid": "f4244195-360a-40ff-9d56-e820c98d5b79"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/Event": {
+      "time": 1719557223642.6697,
+      "uuid": "f56eb0a0-1d05-49be-a64a-62a4e8c1fc3b"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW": {
+      "time": 1719557223641.861,
+      "uuid": "bc008958-1968-4607-9072-113787e55da8"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_title.png": {
+      "time": 1719557223616.3958,
+      "uuid": "67ccbb20-82e2-4e16-97bb-64c7adba9d2b"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.png": {
+      "time": 1719557223614.2505,
+      "uuid": "b03512cc-8c0d-42a3-83ff-38525ed161f1"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/money-2.png": {
+      "time": 1719557223611.6248,
+      "uuid": "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu_v2.plist": {
+      "time": 1719557223615.082,
+      "uuid": "6aa791b9-770f-487c-a24b-e8a02d2598dd"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/title-result.png": {
+      "time": 1719557223610.7468,
+      "uuid": "627b2813-e8b3-405c-a752-55e051d0697b"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.atlas": {
+      "time": 1719557223641.515,
+      "uuid": "48fe08cc-6e41-4f1c-9607-a060916696a5"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.png": {
+      "time": 1719557223624.1987,
+      "uuid": "891e36b8-ff97-4f23-993f-269cba39412f"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/Event/Sukien-RongThan.png": {
+      "time": 1719557223643.7307,
+      "uuid": "91b911db-34c8-4fd4-b8ec-d260fbf17ae8"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/0.png": {
+      "time": 1719557223641.9285,
+      "uuid": "bd47893e-26b4-4e6f-876e-55c0de57651d"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.json": {
+      "time": 1719557223641.056,
+      "uuid": "bef74470-074d-4316-b11c-4298e21d4a1b"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.png": {
+      "time": 1719557223640.4663,
+      "uuid": "0a784e2d-ee39-43c3-9a1c-9f193301916d"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.png": {
+      "time": 1719557223638.2278,
+      "uuid": "606d0ef7-7eb3-4246-bb23-392b991977f5"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.fnt": {
+      "time": 1719557223635.2405,
+      "uuid": "cb9025c4-6778-43e2-96b8-b8a9b5ed425f"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/diatx.png": {
+      "time": 1719557223636.693,
+      "uuid": "43a488c5-95cf-41f7-8aee-599282636272"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.fnt": {
+      "time": 1719557223634.207,
+      "uuid": "854f228d-1fbb-4849-8742-97600a33dd8f"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png": {
+      "time": 1719557223634.8088,
+      "uuid": "09ccf507-ffca-446a-8414-7eacc2fa44eb"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png": {
+      "time": 1719557223633.3174,
+      "uuid": "4ce85743-9133-4985-ad1b-00b23a88bc51"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.png": {
+      "time": 1719557223631.513,
+      "uuid": "1e260139-0c9b-49e9-80f1-0161db79f6bb"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/board.plist": {
+      "time": 1719557223639.234,
+      "uuid": "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TX-NEW/main.plist": {
+      "time": 1719557223632.474,
+      "uuid": "8c4cf97c-c050-4b3c-b9cf-c59c614af458"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/TaiXiu/TaiXiu.plist": {
+      "time": 1719557223625.8699,
+      "uuid": "d9d7774f-19cb-496e-b0b5-61a774b614c5"
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/XocXoc/bar.png.meta": {
+      "time": 1719557937241.5308
+    },
+    "/Users/waostudio/Desktop/jackbot/assets/Texture/Game/XocXoc/bar.png": {
+      "time": 1719557937239.8918,
+      "uuid": "462c4d88-f1e9-4f94-84ca-9b419043d245"
     }
   },
   "missing": {}

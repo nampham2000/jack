@@ -6,7 +6,8 @@
     "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/MainGame.ts": "./chunks/cf/cf8cd384064b1cfe31bbd9bbab263f86831b6a91.js",
     "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/abs.ts": "./chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js",
     "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/dialogController.ts": "./chunks/83/8387577147647ec596a5c0e0524921afc3116ccd.js",
-    "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts": "./chunks/cd/cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9.js"
+    "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts": "./chunks/cd/cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9.js",
+    "file:///Users/waostudio/Desktop/jackbot/assets/Scripts/scripts/XocXoc.ts": "./chunks/d1/d16cd2b78495461f211331584b52de9cf4e77740.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -46,7 +47,11 @@
       "__unresolved_1": "./chunks/cf/cf8cd384064b1cfe31bbd9bbab263f86831b6a91.js",
       "__unresolved_2": "./chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js",
       "__unresolved_3": "./chunks/83/8387577147647ec596a5c0e0524921afc3116ccd.js",
-      "__unresolved_4": "./chunks/cd/cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9.js"
+      "__unresolved_4": "./chunks/cd/cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9.js",
+      "__unresolved_5": "./chunks/d1/d16cd2b78495461f211331584b52de9cf4e77740.js"
+    },
+    "./chunks/d1/d16cd2b78495461f211331584b52de9cf4e77740.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/cd/cdfa75de0e2e96a0ec20727b668d6d2c356ec9f9.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"

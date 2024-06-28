@@ -1,7 +1,8 @@
 {
   "34dfdc37-41b6-4901-8fdc-2e59188eeed5": {
     "url": "db://assets/Scene",
-    "value": {}
+    "value": {},
+    "versionCode": 0
   },
   "b0bdeeee-05b9-415f-af2a-3b0806c58092": {
     "url": "db://assets/Scene/MainGame.scene",
@@ -121,15 +122,15 @@
         "5a21c0ef-789f-44f5-9011-fc6cba85ad0f@f9941",
         "43ba0201-efca-4c29-97d2-e8b1641fe6a9@f9941",
         "bc774ebd-df30-40d7-89c6-013229487936",
+        "6dbc23e0-1ffa-4631-95ff-002a8ce78339",
+        "c37528e5-e3b3-4cc5-a599-cc0d770ed2e4",
         "06d1eb85-521a-428f-8278-e1c127065125",
         "f6034db8-f824-4af0-9d06-2e8ae2e5e4ab",
         "ebaf8f84-a61f-4264-b8b5-34b95a42f1be",
-        "c37528e5-e3b3-4cc5-a599-cc0d770ed2e4",
         "3a662380-f5f8-4cb7-abb8-f8f0324b82f4@f9941",
         "e0358cbe-7f0f-4b31-9969-b78e5d1052c8@f9941",
         "62fa7187-f3e5-4c91-8129-f409c495f0e8@f9941",
         "3ad4f2ae-0357-4dfc-a398-7c01d20e0a96@f9941",
-        "6dbc23e0-1ffa-4631-95ff-002a8ce78339",
         "dad1983a-5b01-49fd-b7ee-e083483d1158",
         "dbf46744-d3da-4b49-9479-d060831915d5",
         "0c1aa7df-c87b-44b5-a778-3b588a12e2f6",
@@ -178,7 +179,8 @@
   },
   "7b91d076-8853-435f-8fb5-7945650057b4": {
     "url": "db://assets/Texture",
-    "value": {}
+    "value": {},
+    "versionCode": 0
   },
   "4024c083-aa49-438f-9020-3b67fc1bc477": {
     "url": "db://assets/Texture/audition",
@@ -414,7 +416,8 @@
   },
   "2bdf18d3-4acf-4e3b-9311-7cda430c13ff": {
     "url": "db://assets/Texture/Game/XocXoc",
-    "value": {}
+    "value": {},
+    "versionCode": 0
   },
   "fd893ac4-4c7a-4374-abf0-24890f9a5d29": {
     "url": "db://assets/Texture/Game/XoSo",
@@ -83354,6 +83357,1929 @@
   "caa09c91-ebc3-481b-815e-2422b83614de": {
     "url": "db://assets/Scripts/abs.ts",
     "value": {},
+    "versionCode": 0
+  },
+  "0729e17c-6ce5-49b6-9846-030a7c8f5d71": {
+    "url": "db://assets/Scene/xocxoc.scene",
+    "value": {
+      "depends": [
+        "0729e17c-6ce5-49b6-9846-030a7c8f5d71",
+        "e6392599-c951-4cb1-b543-67f6fa870075@f9941",
+        "75fbc3d1-c997-4dd6-a306-4be1b94609ba@f9941",
+        "8558dd39-d815-49bd-9a16-3ed66222900e",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@583f3",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@47d80",
+        "04e414cc-3449-4588-8339-df91a5977e88",
+        "b02ad779-db3a-46b1-8b94-be066b4fb014",
+        "cafd24ce-1dec-430a-9047-0775cfb46eb6",
+        "e7cea64b-1138-4939-a4b0-e4f025f3097e@7d53e",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@dbeff",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd",
+        "b7b935d4-900b-4734-b152-0757974ba8a0",
+        "94d48c70-83ab-40b7-89ae-f4a0b9357a03",
+        "468f4947-79cb-4339-bc02-fe77c73cac66@f9941",
+        "e3447b4b-652e-431b-84cb-0329b1892b5a@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "9461b505-5f44-4a4e-b1fc-c9b1b131635e@f9941",
+        "ef826ea2-1b3c-4a3d-a075-4870858b3637",
+        "5f47f1eb-b097-49af-bb9e-49d5c8500c94@f9941",
+        "30997b1f-53c8-4912-a25a-cc18131b883e@f9941",
+        "f41ee1d8-046e-4ede-8e84-7a0a5ed89597@74947",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@2540c",
+        "f41ee1d8-046e-4ede-8e84-7a0a5ed89597@1056a",
+        "f41ee1d8-046e-4ede-8e84-7a0a5ed89597",
+        "f41ee1d8-046e-4ede-8e84-7a0a5ed89597@567ce",
+        "f41ee1d8-046e-4ede-8e84-7a0a5ed89597@96296",
+        "462c4d88-f1e9-4f94-84ca-9b419043d245@f9941",
+        "5062ae18-9b8e-4e89-a95e-fc6cf67bd149",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@98434",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@c9e45",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@c3678",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@0cadf",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@b2a2c",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@46f4f",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@bb82f",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@45402",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@85125",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@7169b",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@bf66e",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@9e9dd",
+        "8b2cfc3a-72d9-4007-9256-b83fefe7cffd@e07eb"
+      ],
+      "dependScripts": [
+        "6c579757-2f46-4741-b2fe-8b0df7c76ac0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3e2f43dd-6411-4b29-b709-bc978cea2c48": {
+    "url": "db://assets/Animation-001",
+    "value": {},
+    "versionCode": 0
+  },
+  "c50177a0-bc5e-4cc4-89b5-49b543940cdd": {
+    "url": "db://assets/Animation-001/XocXoc",
+    "value": {},
+    "versionCode": 0
+  },
+  "04e414cc-3449-4588-8339-df91a5977e88": {
+    "url": "db://assets/Animation-001/XocXoc/XocDia.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "11590b11-cac0-4566-b5bd-9e046d32e33f": {
+    "url": "db://assets/Scripts/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "6c579757-2f46-4741-b2fe-8b0df7c76ac0": {
+    "url": "db://assets/Scripts/scripts/XocXoc.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "f4244195-360a-40ff-9d56-e820c98d5b79": {
+    "url": "db://assets/Texture/TaiXiu",
+    "value": {},
+    "versionCode": 0
+  },
+  "f56eb0a0-1d05-49be-a64a-62a4e8c1fc3b": {
+    "url": "db://assets/Texture/TaiXiu/Event",
+    "value": {},
+    "versionCode": 0
+  },
+  "bc008958-1968-4607-9072-113787e55da8": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW",
+    "value": {},
+    "versionCode": 0
+  },
+  "891e36b8-ff97-4f23-993f-269cba39412f": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "67ccbb20-82e2-4e16-97bb-64c7adba9d2b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_title.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b03512cc-8c0d-42a3-83ff-38525ed161f1": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist",
+    "value": {
+      "depends": [
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@a594c",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@7d53e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@58cb7",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@49881",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@c23bd",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@300a0",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@b4cc6",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@567ce",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@266ec",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@26eef",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@405be",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@c52ac",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@fb702",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@34f16",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@bfbe3",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@12b1a",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@4a012",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@10cb9",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6dc42",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@c1ed2",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@f8abc",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@04c00",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@dbfc3",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@71e8a",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@15eb1",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@50ce1",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@e8129",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@f3836",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@d7b09",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@a396b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@73406",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@f371b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@92786",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@bdf1e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@5d66e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6cf99",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@67ac5",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@dd62d",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@ffb72",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6823c",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@3f5b2",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@07d05",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@b3c14",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@844fd",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@eb676",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@b02ef",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@fa9fc",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6b505",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@567cf",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6c1a2",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@87d51",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@257d4",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@e07eb",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6ef8b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@d9e2b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@77bf1",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@34346",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@407aa",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@f39c8",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@15511",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6e154",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@cbe10",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@2554e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@30ccd",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@d659b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@cb3f3",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@be5e9",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@aadfb",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@38b4c",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@89285",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@977dd",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@2c70b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@256f5",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@bf262",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@de09c",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@a7c0b",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@76e43",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@69dca",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@769ca",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@1c90e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@5a461",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@6387c",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@d409a",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@d179a",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@eb06e",
+        "d9d7774f-19cb-496e-b0b5-61a774b614c5@175cf"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist",
+    "value": {
+      "depends": [
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@47d80",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@9dc4f",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@006dc",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@287a1",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@85b3c",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@037be",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@12ac4",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@0d103",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@65503",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@e7632",
+        "6aa791b9-770f-487c-a24b-e8a02d2598dd@8c189"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@15511": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@15511",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@65503": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@65503",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@34346": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@34346",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "891e36b8-ff97-4f23-993f-269cba39412f@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.png@6c48a",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@47d80": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@47d80",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "67ccbb20-82e2-4e16-97bb-64c7adba9d2b@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_title.png@6c48a",
+    "value": {
+      "depends": [
+        "67ccbb20-82e2-4e16-97bb-64c7adba9d2b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.png@6c48a",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@49881": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@49881",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@9dc4f": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@9dc4f",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@73406": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@73406",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@006dc": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@006dc",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@89285": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@89285",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "67ccbb20-82e2-4e16-97bb-64c7adba9d2b@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_title.png@f9941",
+    "value": {
+      "depends": [
+        "67ccbb20-82e2-4e16-97bb-64c7adba9d2b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc": {
+    "url": "db://assets/Texture/TaiXiu/money-2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@287a1": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@287a1",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@92786": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@92786",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@85b3c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@85b3c",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b03512cc-8c0d-42a3-83ff-38525ed161f1@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.png@f9941",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@a594c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@a594c",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "627b2813-e8b3-405c-a752-55e051d0697b": {
+    "url": "db://assets/Texture/TaiXiu/title-result.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@037be": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@037be",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@7d53e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@7d53e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@12ac4": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@12ac4",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@58cb7": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@58cb7",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/money-2.png@6c48a",
+    "value": {
+      "depends": [
+        "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@0d103": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@0d103",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@c23bd": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@c23bd",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@e7632": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@e7632",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@300a0": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@300a0",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "627b2813-e8b3-405c-a752-55e051d0697b@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/title-result.png@6c48a",
+    "value": {
+      "depends": [
+        "627b2813-e8b3-405c-a752-55e051d0697b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc@f9941": {
+    "url": "db://assets/Texture/TaiXiu/money-2.png@f9941",
+    "value": {
+      "depends": [
+        "ee2a32c7-8c12-4acb-bf05-8ae3ffaed6dc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6aa791b9-770f-487c-a24b-e8a02d2598dd@8c189": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu_v2.plist@8c189",
+    "value": {
+      "depends": [
+        "b03512cc-8c0d-42a3-83ff-38525ed161f1@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "91b911db-34c8-4fd4-b8ec-d260fbf17ae8": {
+    "url": "db://assets/Texture/TaiXiu/Event/Sukien-RongThan.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "bd47893e-26b4-4e6f-876e-55c0de57651d": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@b4cc6": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@b4cc6",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "627b2813-e8b3-405c-a752-55e051d0697b@f9941": {
+    "url": "db://assets/Texture/TaiXiu/title-result.png@f9941",
+    "value": {
+      "depends": [
+        "627b2813-e8b3-405c-a752-55e051d0697b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "48fe08cc-6e41-4f1c-9607-a060916696a5": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.atlas",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@567ce": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@567ce",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@266ec": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@266ec",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@26eef": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@26eef",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bef74470-074d-4316-b11c-4298e21d4a1b": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.json",
+    "value": {
+      "depends": [
+        "0a784e2d-ee39-43c3-9a1c-9f193301916d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "91b911db-34c8-4fd4-b8ec-d260fbf17ae8@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/Event/Sukien-RongThan.png@6c48a",
+    "value": {
+      "depends": [
+        "91b911db-34c8-4fd4-b8ec-d260fbf17ae8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "891e36b8-ff97-4f23-993f-269cba39412f@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.png@f9941",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0a784e2d-ee39-43c3-9a1c-9f193301916d": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "bd47893e-26b4-4e6f-876e-55c0de57651d@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/0.png@6c48a",
+    "value": {
+      "depends": [
+        "bd47893e-26b4-4e6f-876e-55c0de57651d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@405be": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@405be",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "91b911db-34c8-4fd4-b8ec-d260fbf17ae8@f9941": {
+    "url": "db://assets/Texture/TaiXiu/Event/Sukien-RongThan.png@f9941",
+    "value": {
+      "depends": [
+        "91b911db-34c8-4fd4-b8ec-d260fbf17ae8@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@c52ac": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@c52ac",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "bd47893e-26b4-4e6f-876e-55c0de57651d@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/0.png@f9941",
+    "value": {
+      "depends": [
+        "bd47893e-26b4-4e6f-876e-55c0de57651d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "606d0ef7-7eb3-4246-bb23-392b991977f5": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist",
+    "value": {
+      "depends": [
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c30fb",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c86cc",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@e7223",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@a795c",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@e7d45",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@116ec",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@855b3",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c959d",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@4ce76",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@cb414",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@13394",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@7b83c",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@a702c",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@91605",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@3b5d7",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@79e49",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@bc606",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@54710",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@43688",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@2534b",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@03df4",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@44da9",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c56a3",
+        "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@7d802"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@fb702": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@fb702",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43a488c5-95cf-41f7-8aee-599282636272": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/diatx.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@34f16": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@34f16",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@bfbe3": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@bfbe3",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0a784e2d-ee39-43c3-9a1c-9f193301916d@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.png@6c48a",
+    "value": {
+      "depends": [
+        "0a784e2d-ee39-43c3-9a1c-9f193301916d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@13394": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@13394",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@12b1a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@12b1a",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.png@6c48a",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@43688": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@43688",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@4a012": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@4a012",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "0a784e2d-ee39-43c3-9a1c-9f193301916d@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/Icon-DudayTaxi.png@f9941",
+    "value": {
+      "depends": [
+        "0a784e2d-ee39-43c3-9a1c-9f193301916d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43a488c5-95cf-41f7-8aee-599282636272@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/diatx.png@6c48a",
+    "value": {
+      "depends": [
+        "43a488c5-95cf-41f7-8aee-599282636272"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cb9025c4-6778-43e2-96b8-b8a9b5ed425f": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-minigame-export.fnt",
+    "value": {
+      "depends": [
+        "09ccf507-ffca-446a-8414-7eacc2fa44eb@f9941"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@54710": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@54710",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@10cb9": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@10cb9",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "606d0ef7-7eb3-4246-bb23-392b991977f5@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.png@f9941",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@91605": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@91605",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "09ccf507-ffca-446a-8414-7eacc2fa44eb": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6dc42": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6dc42",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "43a488c5-95cf-41f7-8aee-599282636272@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/diatx.png@f9941",
+    "value": {
+      "depends": [
+        "43a488c5-95cf-41f7-8aee-599282636272@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "854f228d-1fbb-4849-8742-97600a33dd8f": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.fnt",
+    "value": {
+      "depends": [
+        "4ce85743-9133-4985-ad1b-00b23a88bc51@f9941"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4ce85743-9133-4985-ad1b-00b23a88bc51": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@cb414": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@cb414",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@c1ed2": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@c1ed2",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c30fb": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@c30fb",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@f8abc": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@f8abc",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@7b83c": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@7b83c",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@04c00": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@04c00",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist",
+    "value": {
+      "depends": [
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@731c9",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6a0de",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@2398a",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@a370f",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@52e1a",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@e8ed1",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@e4ecc",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@557df",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@56602",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6c86d",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@33654",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@65c1c",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@319bf",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@5cd13",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@58f74",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@a7c0b",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@94705",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@60449",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6c506",
+        "8c4cf97c-c050-4b3c-b9cf-c59c614af458@175cf"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@a702c": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@a702c",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "09ccf507-ffca-446a-8414-7eacc2fa44eb@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png@6c48a",
+    "value": {
+      "depends": [
+        "09ccf507-ffca-446a-8414-7eacc2fa44eb"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@dbfc3": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@dbfc3",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c86cc": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@c86cc",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4ce85743-9133-4985-ad1b-00b23a88bc51@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png@6c48a",
+    "value": {
+      "depends": [
+        "4ce85743-9133-4985-ad1b-00b23a88bc51"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@71e8a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@71e8a",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "09ccf507-ffca-446a-8414-7eacc2fa44eb@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-minigame-export.png@f9941",
+    "value": {
+      "depends": [
+        "09ccf507-ffca-446a-8414-7eacc2fa44eb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1e260139-0c9b-49e9-80f1-0161db79f6bb": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@e7223": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@e7223",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@15eb1": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@15eb1",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@33654": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@33654",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4ce85743-9133-4985-ad1b-00b23a88bc51@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/font-taixiu-export.png@f9941",
+    "value": {
+      "depends": [
+        "4ce85743-9133-4985-ad1b-00b23a88bc51@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@a795c": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@a795c",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@50ce1": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@50ce1",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@56602": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@56602",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@e7d45": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@e7d45",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@60449": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@60449",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@e8129": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@e8129",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@3b5d7": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@3b5d7",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@94705": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@94705",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@f3836": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@f3836",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@79e49": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@79e49",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.png@6c48a",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@731c9": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@731c9",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@d7b09": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@d7b09",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@bc606": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@bc606",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6a0de": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@6a0de",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@a396b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@a396b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@116ec": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@116ec",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@2398a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@2398a",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@855b3": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@855b3",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@f371b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@f371b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@a370f": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@a370f",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c959d": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@c959d",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@bdf1e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@bdf1e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@52e1a": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@52e1a",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@4ce76": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@4ce76",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@5d66e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@5d66e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@e8ed1": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@e8ed1",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@2534b": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@2534b",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1e260139-0c9b-49e9-80f1-0161db79f6bb@f9941": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.png@f9941",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6cf99": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6cf99",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@e4ecc": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@e4ecc",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@03df4": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@03df4",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@67ac5": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@67ac5",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@557df": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@557df",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@44da9": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@44da9",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@dd62d": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@dd62d",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6c86d": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@6c86d",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@c56a3": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@c56a3",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@ffb72": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@ffb72",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@65c1c": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@65c1c",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ff1ffb8d-cfe6-456a-ac4b-d9ab27e3a371@7d802": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/board.plist@7d802",
+    "value": {
+      "depends": [
+        "606d0ef7-7eb3-4246-bb23-392b991977f5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6823c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6823c",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@3f5b2": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@3f5b2",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@319bf": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@319bf",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@5cd13": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@5cd13",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@07d05": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@07d05",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@58f74": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@58f74",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@b3c14": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@b3c14",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@a7c0b": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@a7c0b",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@844fd": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@844fd",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@6c506": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@6c506",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@eb676": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@eb676",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8c4cf97c-c050-4b3c-b9cf-c59c614af458@175cf": {
+    "url": "db://assets/Texture/TaiXiu/TX-NEW/main.plist@175cf",
+    "value": {
+      "depends": [
+        "1e260139-0c9b-49e9-80f1-0161db79f6bb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@b02ef": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@b02ef",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@fa9fc": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@fa9fc",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6b505": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6b505",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@567cf": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@567cf",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6c1a2": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6c1a2",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@87d51": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@87d51",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@257d4": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@257d4",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@e07eb": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@e07eb",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6ef8b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6ef8b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@d9e2b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@d9e2b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@77bf1": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@77bf1",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@407aa": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@407aa",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@f39c8": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@f39c8",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6e154": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6e154",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@cbe10": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@cbe10",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@2554e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@2554e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@30ccd": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@30ccd",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@d659b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@d659b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@cb3f3": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@cb3f3",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@be5e9": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@be5e9",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@aadfb": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@aadfb",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@38b4c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@38b4c",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@977dd": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@977dd",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@2c70b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@2c70b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@256f5": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@256f5",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@bf262": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@bf262",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@de09c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@de09c",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@a7c0b": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@a7c0b",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@76e43": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@76e43",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@69dca": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@69dca",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@769ca": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@769ca",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@1c90e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@1c90e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@5a461": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@5a461",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@6387c": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@6387c",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@d409a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@d409a",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@d179a": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@d179a",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@eb06e": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@eb06e",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d9d7774f-19cb-496e-b0b5-61a774b614c5@175cf": {
+    "url": "db://assets/Texture/TaiXiu/TaiXiu.plist@175cf",
+    "value": {
+      "depends": [
+        "891e36b8-ff97-4f23-993f-269cba39412f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "462c4d88-f1e9-4f94-84ca-9b419043d245": {
+    "url": "db://assets/Texture/Game/XocXoc/bar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "462c4d88-f1e9-4f94-84ca-9b419043d245@6c48a": {
+    "url": "db://assets/Texture/Game/XocXoc/bar.png@6c48a",
+    "value": {
+      "depends": [
+        "462c4d88-f1e9-4f94-84ca-9b419043d245"
+      ]
+    },
+    "versionCode": 0
+  },
+  "462c4d88-f1e9-4f94-84ca-9b419043d245@f9941": {
+    "url": "db://assets/Texture/Game/XocXoc/bar.png@f9941",
+    "value": {
+      "depends": [
+        "462c4d88-f1e9-4f94-84ca-9b419043d245@6c48a"
+      ]
+    },
     "versionCode": 0
   }
 }
