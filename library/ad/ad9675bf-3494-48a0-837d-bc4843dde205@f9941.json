@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skeleton",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 74,
+      "height": 50
+    },
+    "offset": {
+      "x": -25,
+      "y": 5
+    },
+    "originalSize": {
+      "width": 128,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -37,
+        -25,
+        0,
+        37,
+        -25,
+        0,
+        -37,
+        25,
+        0,
+        37,
+        25,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        2,
+        62,
+        76,
+        62,
+        2,
+        12,
+        76,
+        12
+      ],
+      "nuv": [
+        0.015625,
+        0.1875,
+        0.59375,
+        0.1875,
+        0.015625,
+        0.96875,
+        0.59375,
+        0.96875
+      ],
+      "minPos": {
+        "x": -37,
+        "y": -25,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 37,
+        "y": 25,
+        "z": 0
+      }
+    },
+    "texture": "ad9675bf-3494-48a0-837d-bc4843dde205@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "muiten",
+    "spriteFrames": [
+      "btn_phai",
+      "320aee53-b03d-4112-811a-1b5a623d6862@6dbcf",
+      "btn_trai",
+      "320aee53-b03d-4112-811a-1b5a623d6862@9b248"
+    ]
+  }
+}

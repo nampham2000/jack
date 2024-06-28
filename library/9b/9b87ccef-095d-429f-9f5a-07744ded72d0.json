@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "aladdin_bigwin",
+    "spriteFrames": [
+      "HUthanglon1",
+      "9b87ccef-095d-429f-9f5a-07744ded72d0@36811",
+      "HUthanglon2",
+      "9b87ccef-095d-429f-9f5a-07744ded72d0@4118f",
+      "",
+      "9b87ccef-095d-429f-9f5a-07744ded72d0@e9e77"
+    ]
+  }
+}

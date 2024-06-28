@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_duobaoyu",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 0,
+      "width": 80,
+      "height": 70
+    },
+    "offset": {
+      "x": -1,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 70
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -40,
+        -35,
+        0,
+        40,
+        -35,
+        0,
+        -40,
+        35,
+        0,
+        40,
+        35,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        3,
+        70,
+        83,
+        70,
+        3,
+        0,
+        83,
+        0
+      ],
+      "nuv": [
+        0.03409090909090909,
+        0,
+        0.9431818181818182,
+        0,
+        0.03409090909090909,
+        1,
+        0.9431818181818182,
+        1
+      ],
+      "minPos": {
+        "x": -40,
+        "y": -35,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 40,
+        "y": 35,
+        "z": 0
+      }
+    },
+    "texture": "66a57ad9-844f-4241-8f10-0c49a6e9087f@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderAvatar",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 2,
+      "width": 142,
+      "height": 142
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 142,
+      "height": 144
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -71,
+        -71,
+        0,
+        71,
+        -71,
+        0,
+        -71,
+        71,
+        0,
+        71,
+        71,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        142,
+        142,
+        142,
+        0,
+        0,
+        142,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.9861111111111112,
+        1,
+        0.9861111111111112
+      ],
+      "minPos": {
+        "x": -71,
+        "y": -71,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 71,
+        "y": 71,
+        "z": 0
+      }
+    },
+    "texture": "6a7919de-02ab-4594-a8b6-a87cb61dc04b@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

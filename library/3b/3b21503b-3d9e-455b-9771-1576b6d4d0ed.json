@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "CapThapV2",
+    "spriteFrames": [
+      "bg",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@58cb7",
+      "btn_dow",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@32e41",
+      "btn_new",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@b1bca",
+      "btn_up",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@27bb0",
+      "card",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@59775",
+      "cardA",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@92953",
+      "log",
+      "3b21503b-3d9e-455b-9771-1576b6d4d0ed@dbeff"
+    ]
+  }
+}

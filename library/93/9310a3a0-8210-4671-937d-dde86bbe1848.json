@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "minipoker_v2",
+    "spriteFrames": [
+      "bg",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@58cb7",
+      "btn_auto",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@fc02f",
+      "btn_play",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@e7623",
+      "btn_playOff",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@bce52",
+      "btn_speed",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@1e6cb",
+      "btn_stop",
+      "9310a3a0-8210-4671-937d-dde86bbe1848@3cfa0"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BUTTONRED",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 189,
+      "height": 84
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 189,
+      "height": 84
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -94.5,
+        -42,
+        0,
+        94.5,
+        -42,
+        0,
+        -94.5,
+        42,
+        0,
+        94.5,
+        42,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        84,
+        189,
+        84,
+        0,
+        0,
+        189,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -94.5,
+        "y": -42,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 94.5,
+        "y": 42,
+        "z": 0
+      }
+    },
+    "texture": "931081bf-4e99-47ba-966f-3e07952f4401@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

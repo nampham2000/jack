@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "btn_Long",
+    "spriteFrames": [
+      "bgForMiniGame",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@5244e",
+      "bt_Long",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@9a741",
+      "btn_bet_off",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@cea25",
+      "btn_bet_on",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@d0dcf",
+      "btn_close",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@86d87",
+      "btn_giaithuong",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@708aa",
+      "btn_help",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@6001f",
+      "btn_history",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@f9a94",
+      "btn_top",
+      "681b58a6-7ee6-45d9-b154-539c2ac8981d@2afdd"
+    ]
+  }
+}

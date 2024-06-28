@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hu",
+    "atlas": "9e9091c9-e784-4388-b18a-b9a4125fe6a8",
+    "rect": {
+      "x": 451,
+      "y": 1,
+      "width": 119,
+      "height": 107
+    },
+    "offset": {
+      "x": 1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 121,
+      "height": 109
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "bd5a6042-6949-4df0-80ea-1a88edece124@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

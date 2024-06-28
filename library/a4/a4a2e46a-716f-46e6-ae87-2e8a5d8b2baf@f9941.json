@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_effect_xam",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 862,
+      "height": 874
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 863,
+      "height": 875
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -431,
+        -437,
+        0,
+        431,
+        -437,
+        0,
+        -431,
+        437,
+        0,
+        431,
+        437,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        875,
+        862,
+        875,
+        0,
+        1,
+        862,
+        1
+      ],
+      "nuv": [
+        0,
+        0.001142857142857143,
+        0.9988412514484357,
+        0.001142857142857143,
+        0,
+        1,
+        0.9988412514484357,
+        1
+      ],
+      "minPos": {
+        "x": -431,
+        "y": -437,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 431,
+        "y": 437,
+        "z": 0
+      }
+    },
+    "texture": "a4a2e46a-716f-46e6-ae87-2e8a5d8b2baf@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

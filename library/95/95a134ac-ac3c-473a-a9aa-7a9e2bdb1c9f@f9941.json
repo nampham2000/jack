@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tatca-tab-active",
+    "atlas": "",
+    "rect": {
+      "x": 33,
+      "y": 15,
+      "width": 84,
+      "height": 29
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -42,
+        -14.5,
+        0,
+        42,
+        -14.5,
+        0,
+        -42,
+        14.5,
+        0,
+        42,
+        14.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        33,
+        45,
+        117,
+        45,
+        33,
+        16,
+        117,
+        16
+      ],
+      "nuv": [
+        0.22,
+        0.26666666666666666,
+        0.78,
+        0.26666666666666666,
+        0.22,
+        0.75,
+        0.78,
+        0.75
+      ],
+      "minPos": {
+        "x": -42,
+        "y": -14.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 42,
+        "y": 14.5,
+        "z": 0
+      }
+    },
+    "texture": "95a134ac-ac3c-473a-a9aa-7a9e2bdb1c9f@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

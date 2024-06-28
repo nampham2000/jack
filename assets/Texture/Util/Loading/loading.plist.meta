@@ -1,0 +1,92 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "6e680ea6-b2f7-4009-a78f-de1c155d3fb8",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "Layer.png": {
+      "ver": "1.0.4",
+      "uuid": "f81ffc88-8723-44e3-889a-0134df2ea29e",
+      "rawTextureUuid": "62155418-02d3-4bf6-9a89-a66f35d12b11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 255,
+      "height": 270,
+      "rawWidth": 255,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "3e55f": {
+      "importer": "sprite-frame",
+      "uuid": "6e680ea6-b2f7-4009-a78f-de1c155d3fb8@3e55f",
+      "displayName": "",
+      "id": "3e55f",
+      "name": "Layer",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 255,
+        "height": 270,
+        "rawWidth": 255,
+        "rawHeight": 270,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "62155418-02d3-4bf6-9a89-a66f35d12b11@6c48a",
+        "atlasUuid": "6e680ea6-b2f7-4009-a78f-de1c155d3fb8"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "loading.png",
+    "format": 3,
+    "uuid": "6e680ea6-b2f7-4009-a78f-de1c155d3fb8",
+    "textureUuid": "62155418-02d3-4bf6-9a89-a66f35d12b11@6c48a"
+  }
+}

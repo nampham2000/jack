@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "util-mini",
+    "spriteFrames": [
+      "bg_popupMiniGame",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@6af8d",
+      "dr",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@ba358",
+      "hu",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@19c50",
+      "lights-off",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@f7b2d",
+      "lights-on",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@0e044",
+      "mini-game",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@adaae",
+      "rank1",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@f62c8",
+      "rank2",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@e7edf",
+      "rank3",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@767da",
+      "trunghu",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@37821",
+      "util.bet",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@7d436",
+      "util.betC",
+      "9e9091c9-e784-4388-b18a-b9a4125fe6a8@bf8bf"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinlongwang",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 11,
+      "width": 88,
+      "height": 54
+    },
+    "offset": {
+      "x": 0,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 70
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -44,
+        -27,
+        0,
+        44,
+        -27,
+        0,
+        -44,
+        27,
+        0,
+        44,
+        27,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        59,
+        88,
+        59,
+        0,
+        5,
+        88,
+        5
+      ],
+      "nuv": [
+        0,
+        0.07142857142857142,
+        1,
+        0.07142857142857142,
+        0,
+        0.8428571428571429,
+        1,
+        0.8428571428571429
+      ],
+      "minPos": {
+        "x": -44,
+        "y": -27,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 44,
+        "y": 27,
+        "z": 0
+      }
+    },
+    "texture": "9521c8d0-651f-4ef6-9603-a3cea32ab354@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

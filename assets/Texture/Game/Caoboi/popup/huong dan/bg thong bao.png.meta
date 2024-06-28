@@ -1,0 +1,162 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c9f52eb8-6b63-4005-ad38-8dab779d1945",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "bg thong bao": {
+      "ver": "1.0.4",
+      "uuid": "0bf0be82-8044-488d-9968-0346d0b5f2be",
+      "rawTextureUuid": "c9f52eb8-6b63-4005-ad38-8dab779d1945",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 944,
+      "height": 612,
+      "rawWidth": 950,
+      "rawHeight": 612,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c9f52eb8-6b63-4005-ad38-8dab779d1945@6c48a",
+      "displayName": "bg thong bao",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "c9f52eb8-6b63-4005-ad38-8dab779d1945",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "c9f52eb8-6b63-4005-ad38-8dab779d1945@f9941",
+      "displayName": "bg thong bao",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 3,
+        "trimY": 0,
+        "width": 944,
+        "height": 612,
+        "rawWidth": 950,
+        "rawHeight": 612,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -472,
+            -306,
+            0,
+            472,
+            -306,
+            0,
+            -472,
+            306,
+            0,
+            472,
+            306,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            3,
+            612,
+            947,
+            612,
+            3,
+            0,
+            947,
+            0
+          ],
+          "nuv": [
+            0.003157894736842105,
+            0,
+            0.9968421052631579,
+            0,
+            0.003157894736842105,
+            1,
+            0.9968421052631579,
+            1
+          ],
+          "minPos": [
+            -472,
+            -306,
+            0
+          ],
+          "maxPos": [
+            472,
+            306,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c9f52eb8-6b63-4005-ad38-8dab779d1945@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "c9f52eb8-6b63-4005-ad38-8dab779d1945@f9941"
+  }
+}
