@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_bailongwang",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 11,
+      "width": 88,
+      "height": 53
+    },
+    "offset": {
+      "x": 0,
+      "y": -2.5
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 70
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -44,
+        -26.5,
+        0,
+        44,
+        -26.5,
+        0,
+        -44,
+        26.5,
+        0,
+        44,
+        26.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        59,
+        88,
+        59,
+        0,
+        6,
+        88,
+        6
+      ],
+      "nuv": [
+        0,
+        0.08571428571428572,
+        1,
+        0.08571428571428572,
+        0,
+        0.8428571428571429,
+        1,
+        0.8428571428571429
+      ],
+      "minPos": {
+        "x": -44,
+        "y": -26.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 44,
+        "y": 26.5,
+        "z": 0
+      }
+    },
+    "texture": "4dc99e7b-1bfe-4bb8-8262-2832c322c55c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

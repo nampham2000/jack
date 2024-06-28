@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "room_table",
+    "spriteFrames": [
+      "icon_table_1",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@73f10",
+      "icon_table_1_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@a7aa2",
+      "icon_table_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@14dd7",
+      "icon_table_2_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@ac8b1",
+      "icon_table_3",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@c0396",
+      "icon_table_3_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@e5c54",
+      "icon_table_4",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@f88c9",
+      "icon_table_4_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@d11d7",
+      "icon_table_5",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@c6da9",
+      "icon_table_5_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@1695d",
+      "icon_table_6",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@fad41",
+      "icon_table_6_2",
+      "bdc36b03-d320-43c2-97c0-8a5911815321@966f2"
+    ]
+  }
+}

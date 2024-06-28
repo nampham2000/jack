@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "BONUSJACKPOT.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nBONUSJACKPOT.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n007\n  rotate: false\n  xy: 543, 572\n  size: 262, 400\n  orig: 262, 400\n  offset: 0, 0\n  index: -1\nBONUS\n  rotate: false\n  xy: 543, 476\n  size: 251, 94\n  orig: 251, 94\n  offset: 0, 0\n  index: -1\nCUP\n  rotate: false\n  xy: 614, 358\n  size: 115, 116\n  orig: 115, 116\n  offset: 0, 0\n  index: -1\nCUP2\n  rotate: false\n  xy: 614, 240\n  size: 115, 116\n  orig: 115, 116\n  offset: 0, 0\n  index: -1\nGAI\n  rotate: false\n  xy: 376, 65\n  size: 236, 372\n  orig: 236, 372\n  offset: 0, 0\n  index: -1\nGAI2\n  rotate: false\n  xy: 2, 2\n  size: 372, 435\n  orig: 372, 435\n  offset: 0, 0\n  index: -1\nJACKPOT\n  rotate: true\n  xy: 807, 630\n  size: 342, 122\n  orig: 342, 122\n  offset: 0, 0\n  index: -1\nLIGHT\n  rotate: false\n  xy: 2, 439\n  size: 539, 533\n  orig: 539, 533\n  offset: 0, 0\n  index: -1\nSCATTER\n  rotate: true\n  xy: 931, 686\n  size: 286, 51\n  orig: 286, 51\n  offset: 0, 0\n  index: -1\n"
+}

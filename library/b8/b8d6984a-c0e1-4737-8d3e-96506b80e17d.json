@@ -1,0 +1,288 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "JUcv6VqYdJpf5SqGUYwn2thkbW8",
+      "spine": "3.7.94",
+      "width": 306.5,
+      "height": 424.5,
+      "images": "./New Folder With Items/Icon games/spine/Thuy_Cung/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "BG",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": 80,
+        "y": -25
+      },
+      {
+        "name": "bone4",
+        "parent": "root",
+        "x": -28,
+        "y": -30
+      },
+      {
+        "name": "bone5",
+        "parent": "root",
+        "y": 23
+      },
+      {
+        "name": "bone6",
+        "parent": "root",
+        "y": -37
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "y": -150
+      }
+    ],
+    "slots": [
+      {
+        "name": "BG",
+        "bone": "BG",
+        "attachment": "BG"
+      },
+      {
+        "name": "coral",
+        "bone": "bone3",
+        "attachment": "coral"
+      },
+      {
+        "name": "gold 3",
+        "bone": "bone2",
+        "attachment": "gold 3"
+      },
+      {
+        "name": "Treasure",
+        "bone": "bone4",
+        "attachment": "Treasure"
+      },
+      {
+        "name": "MAIN",
+        "bone": "bone5",
+        "attachment": "MAIN"
+      },
+      {
+        "name": "named",
+        "bone": "bone6",
+        "attachment": "named"
+      },
+      {
+        "name": "jackpot pool",
+        "bone": "bone",
+        "attachment": "jackpot pool"
+      }
+    ],
+    "skins": {
+      "default": {
+        "BG": {
+          "BG": {
+            "y": 0.5,
+            "width": 261,
+            "height": 420
+          }
+        },
+        "MAIN": {
+          "MAIN": {
+            "y": 0.5,
+            "width": 216,
+            "height": 355
+          }
+        },
+        "Treasure": {
+          "Treasure": {
+            "x": 0.5,
+            "y": 0.5,
+            "width": 247,
+            "height": 261
+          }
+        },
+        "coral": {
+          "coral": {
+            "width": 151,
+            "height": 134
+          }
+        },
+        "gold 3": {
+          "gold 3": {
+            "y": -100,
+            "width": 263,
+            "height": 167
+          }
+        },
+        "jackpot pool": {
+          "jackpot pool": {
+            "y": -4,
+            "width": 266,
+            "height": 120
+          }
+        },
+        "named": {
+          "named": {
+            "y": 0.5,
+            "width": 266,
+            "height": 97
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "bone5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": -20,
+                "y": 14
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone6": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 1,
+                "angle": -10
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": 3.1,
+                "y": 6.79
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "ba997dd2-d631-4eca-b8d4-4dc3b43051e7@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\nskeleton.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nBG\n  rotate: false\n  xy: 2, 90\n  size: 261, 420\n  orig: 261, 420\n  offset: 0, 0\n  index: -1\nMAIN\n  rotate: false\n  xy: 265, 155\n  size: 216, 355\n  orig: 216, 355\n  offset: 0, 0\n  index: -1\nTreasure\n  rotate: false\n  xy: 483, 249\n  size: 247, 261\n  orig: 247, 261\n  offset: 0, 0\n  index: -1\ncoral\n  rotate: true\n  xy: 265, 2\n  size: 151, 134\n  orig: 151, 134\n  offset: 0, 0\n  index: -1\ngold 3\n  rotate: false\n  xy: 732, 343\n  size: 263, 167\n  orig: 263, 167\n  offset: 0, 0\n  index: -1\njackpot pool\n  rotate: false\n  xy: 732, 221\n  size: 266, 120\n  orig: 266, 120\n  offset: 0, 0\n  index: -1\nnamed\n  rotate: false\n  xy: 401, 56\n  size: 266, 97\n  orig: 266, 97\n  offset: 0, 0\n  index: -1\n"
+}

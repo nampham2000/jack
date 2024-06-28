@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "mini-poker",
+    "spriteFrames": [
+      "mini-poke-auto",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@a81f7",
+      "mini-poke-bg-1",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@e3ec8",
+      "mini-poke-content-ac",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@8d871",
+      "mini-poke-content",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@2fe09",
+      "mini-poke-hu",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@c9a8b",
+      "mini-poke-speed",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@f2a26",
+      "mini-poke-spin",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@fcff4",
+      "mini-poke-stop",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@e93b4",
+      "mini-poker-bg-3",
+      "4c788a00-9499-4ca3-8591-2b5df664c2a9@eb8e5"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "lines-1",
+    "spriteFrames": [
+      "line01",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@9cf19",
+      "line02",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@c74d5",
+      "line03",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@7fe40",
+      "line06",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@d1cc8",
+      "line11",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@76041",
+      "line12",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@1d140",
+      "line13",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@1446d",
+      "line14",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@75cf1",
+      "line15",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@12da1",
+      "line16",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@f991d",
+      "line24",
+      "8fcc75dc-8d2c-4f25-be0f-2e5c0b5fd4e5@4e3ed"
+    ]
+  }
+}

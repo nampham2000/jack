@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_PopTo1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1099,
+      "height": 657
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1099,
+      "height": 657
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -549.5,
+        -328.5,
+        0,
+        549.5,
+        -328.5,
+        0,
+        -549.5,
+        328.5,
+        0,
+        549.5,
+        328.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        657,
+        1099,
+        657,
+        0,
+        0,
+        1099,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -549.5,
+        "y": -328.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 549.5,
+        "y": 328.5,
+        "z": 0
+      }
+    },
+    "texture": "abd77de7-4e7b-4658-9bb8-ac647a25bfb9@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "pages.png",
+    "spriteFrames": [
+      "next",
+      "1db552f0-f0e0-440d-be3c-e14ca39f2f1c@d02fd",
+      "page.last",
+      "1db552f0-f0e0-440d-be3c-e14ca39f2f1c@e2177",
+      "page.number",
+      "1db552f0-f0e0-440d-be3c-e14ca39f2f1c@48251",
+      "page.previous",
+      "1db552f0-f0e0-440d-be3c-e14ca39f2f1c@de4d4",
+      "page.select",
+      "1db552f0-f0e0-440d-be3c-e14ca39f2f1c@4b645"
+    ]
+  }
+}

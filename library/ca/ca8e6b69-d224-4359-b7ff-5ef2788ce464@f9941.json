@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_dialog_in",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 347,
+      "height": 669
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 347,
+      "height": 669
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -173.5,
+        -334.5,
+        0,
+        173.5,
+        -334.5,
+        0,
+        -173.5,
+        334.5,
+        0,
+        173.5,
+        334.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        669,
+        347,
+        669,
+        0,
+        0,
+        347,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -173.5,
+        "y": -334.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 173.5,
+        "y": 334.5,
+        "z": 0
+      }
+    },
+    "texture": "ca8e6b69-d224-4359-b7ff-5ef2788ce464@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "slot-effect",
+    "spriteFrames": [
+      "slot-icon-effect-1",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@7a8c8",
+      "slot-icon-effect-10",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@fe438",
+      "slot-icon-effect-11",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@bb35d",
+      "slot-icon-effect-12",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@39314",
+      "slot-icon-effect-13",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@6c98e",
+      "slot-icon-effect-14",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@f7366",
+      "slot-icon-effect-15",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@4e8ac",
+      "slot-icon-effect-2",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@a1439",
+      "slot-icon-effect-3",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@ba89d",
+      "slot-icon-effect-4",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@84a12",
+      "slot-icon-effect-5",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@88cfd",
+      "slot-icon-effect-6",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@01fda",
+      "slot-icon-effect-7",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@f51c0",
+      "slot-icon-effect-8",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@a6471",
+      "slot-icon-effect-9",
+      "a685e7aa-258c-4633-92cb-ba3797ffb1bb@c058c"
+    ]
+  }
+}

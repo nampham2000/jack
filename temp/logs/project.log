@@ -1,0 +1,968 @@
+6-26-2024 12:14:12 - log: Load engine in /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+6-26-2024 12:14:13 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+6-26-2024 12:14:13 - log: Register native engine in /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+6-26-2024 12:14:19 - info: [PreviewInEditor] preview process is ready
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/VipPoint/SIEUTOP.plist](f787051e-687a-452e-9585-e8a25bfe51c8)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/VipPoint/SIEUTOP.plist](f787051e-687a-452e-9585-e8a25bfe51c8)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/AngryBirds/bubg.plist](ea5f60c6-a7a8-4efb-8106-5da627e30f7c)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/AngryBirds/bubg.plist](ea5f60c6-a7a8-4efb-8106-5da627e30f7c)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/AngryBirds/huong_dan.plist](42f17889-cd89-409e-827d-e2bd07ce4e26)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/AngryBirds/huong_dan.plist](42f17889-cd89-409e-827d-e2bd07ce4e26)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BauCua/scode/baucua_scode.plist](54afbd61-3e1e-4d1b-adb2-3018a6c71f81)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BauCua/scode/baucua_scode.plist](54afbd61-3e1e-4d1b-adb2-3018a6c71f81)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/Main.plist](55072c23-3d3c-44fd-a8d0-878cf68e900f)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/Main.plist](55072c23-3d3c-44fd-a8d0-878cf68e900f)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/chondong.plist](c1b64a24-49b7-45ee-aacf-b139d4252187)}[Assets] Importer exec failed: {asset[/Users/waostudio/Desktop/jackbot/assets/Texture/Game/BigBabol/scode/chondong.plist](c1b64a24-49b7-45ee-aacf-b139d4252187)}  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:221:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:20 - error: [Assets] Failed to create subAsset: It must have a name[Assets] Failed to create subAsset: It must have a name  
+at Object.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1429)  
+at ImportTask.importAsset (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:222:29)  
+at ImportTask.exec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:68:25)  
+at ParallelQueue._generate (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:182:25)
+6-26-2024 12:14:22 - log: [Scene] meshopt wasm decoder initialized
+6-26-2024 12:14:22 - log: [Scene] [box2d]:box2d wasm lib loaded.
+6-26-2024 12:14:23 - log: [Scene] [bullet]:bullet wasm lib loaded.
+6-26-2024 12:14:24 - log: [Scene] [PHYSICS]: using builtin.
+6-26-2024 12:14:24 - warn: failed to connect login server due to request timeout
+6-26-2024 12:14:25 - log: [Scene] Cocos Creator v3.8.2
+6-26-2024 12:14:25 - info: [Scene] Forward render pipeline initialized.
+6-26-2024 12:14:25 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-26-2024 13:27:53 - info: [Scene] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-26-2024 13:27:56 - warn: [Scene] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [Scene] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:27:56 - warn: [Scene] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [Scene] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:53:15 - info: [PreviewInEditor] preview process is ready
+6-26-2024 13:53:15 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-26-2024 13:53:15 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-26-2024 13:53:15 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-26-2024 13:53:16 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-26-2024 13:53:16 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-26-2024 13:53:16 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-26-2024 13:53:16 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-26-2024 13:53:17 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-26-2024 13:53:20 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:53:20 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:53:38 - info: [PreviewInEditor] preview process is ready
+6-26-2024 13:53:45 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-26-2024 13:53:45 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-26-2024 13:53:46 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-26-2024 13:53:47 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-26-2024 13:53:47 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-26-2024 13:53:47 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-26-2024 13:53:48 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-26-2024 13:53:50 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-26-2024 13:53:53 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:53:53 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:54:01 - info: [PreviewInEditor] preview process is ready
+6-26-2024 13:54:07 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-26-2024 13:54:08 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-26-2024 13:54:09 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-26-2024 13:54:09 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-26-2024 13:54:10 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-26-2024 13:54:10 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-26-2024 13:54:10 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-26-2024 13:54:12 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-26-2024 13:54:15 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:54:15 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 13:54:29 - info: [PreviewInEditor] preview process is ready
+6-26-2024 14:11:02 - warn: Please set the application in Preferences -> Program Manager -> Default Script Editor to better open the script
+6-26-2024 14:24:59 - warn: Please set the application in Preferences -> Program Manager -> Default Script Editor to better open the script
+6-26-2024 14:28:03 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-26-2024 14:28:55 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-26-2024 15:17:17 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-26-2024 15:17:17 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-26-2024 15:17:17 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-26-2024 15:17:18 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-26-2024 15:17:20 - error: [Scene] Cannot read property 'node' of nullTypeError: Cannot read property 'node' of null
+    at EditBoxImpl._resize (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:250044:26)
+    at View.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at View._updateAdaptResult (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:80917:16)
+    at ScreenAdapter.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at ScreenAdapter._updateContainer (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260502:18)
+    at ScreenAdapter._resizeFrame (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260418:16)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260333:18)
+6-26-2024 15:17:20 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-26-2024 15:17:20 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-26-2024 15:17:21 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-26-2024 15:17:21 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-26-2024 15:17:22 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-26-2024 15:17:25 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 15:17:25 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-26-2024 15:23:18 - info: [PreviewInEditor] preview process is ready
+6-26-2024 16:08:35 - error: [Scene] Cannot read property 'node' of nullTypeError: Cannot read property 'node' of null
+    at EditBoxImpl._resize (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:250044:26)
+    at View.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at View._updateAdaptResult (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:80917:16)
+    at ScreenAdapter.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at ScreenAdapter._updateContainer (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260502:18)
+    at ScreenAdapter._resizeFrame (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260418:16)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:260333:18)
+6-27-2024 13:45:18 - warn: Please set the application in Preferences -> Program Manager -> Default Script Editor to better open the script
+6-27-2024 13:48:44 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:50:54 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:52:58 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 13:52:58 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 13:52:58 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 13:52:58 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 13:52:59 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 13:52:59 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 13:52:59 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:52:59 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 13:53:00 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 13:53:03 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:53:03 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:53:06 - info: [PreviewInEditor] preview process is ready
+6-27-2024 13:53:12 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 13:53:12 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 13:53:13 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 13:53:13 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 13:53:14 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 13:53:14 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 13:53:14 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:53:14 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 13:53:15 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 13:53:18 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:53:18 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:53:32 - info: [PreviewInEditor] preview process is ready
+6-27-2024 13:55:01 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 13:55:01 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 13:55:01 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 13:55:01 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 13:55:02 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 13:55:02 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 13:55:02 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:55:02 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 13:55:03 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 13:55:06 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:55:06 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:55:25 - info: [PreviewInEditor] preview process is ready
+6-27-2024 13:57:04 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:57:55 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 13:57:56 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 13:57:56 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 13:57:56 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 13:57:56 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 13:57:56 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 13:57:57 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 13:57:57 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 13:57:58 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 13:58:01 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:58:01 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 13:58:25 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:00:28 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:00:28 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:00:28 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:00:29 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:00:29 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:00:29 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:00:29 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:00:29 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:00:31 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:00:34 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:00:34 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:01:03 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:01:05 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:01:05 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:01:05 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:01:05 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:01:06 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:01:06 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:01:06 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:01:06 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:01:06 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:01:07 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:01:10 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:01:10 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:02:46 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:47:09 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:47:40 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:49:54 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:50:59 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:50:59 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:50:59 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:51:00 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:51:00 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:51:00 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:51:00 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:51:00 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:51:01 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:51:04 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:51:04 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:51:11 - error: [PreviewInEditor] Error occurs in an event listener: touch-endError: [PreviewInEditor] Error occurs in an event listener: touch-end
+    at error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160743:12)
+    at Input._emitEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23102:15)
+    at Input._dispatchOrPushEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23224:20)
+    at Input._simulateEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23083:16)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23138:20)
+    at Eventified.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149115:19)
+    at MouseInputSource.eval [as _handleMouseUp] (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:259839:31)
+6-27-2024 14:51:11 - error: [PreviewInEditor] Cannot set property 'active' of undefinedTypeError: Cannot set property 'active' of undefined
+    at Controller.rutOpen (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/cd/file:/Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts:199:5)
+    at EventHandler.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:46036:19)
+    at Function.emitEvents (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:46000:19)
+    at Button._onTouchEnded (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:73959:35)
+    at CallbacksInvoker.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at NodeEventProcessor.dispatchEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49118:33)
+    at Node.dispatchEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:50802:32)
+    at NodeEventProcessor._handleTouchEnd (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49444:16)
+    at NodeEventProcessor._handleEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49399:27)
+    at PointerEventDispatcher.dispatchEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129422:41)
+6-27-2024 14:51:11 - error: [PreviewInEditor] Error occurs in an event listener: touch-endError: [PreviewInEditor] Error occurs in an event listener: touch-end
+    at error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160743:12)
+    at Input._emitEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23102:15)
+    at Input._dispatchOrPushEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23224:20)
+    at Input._simulateEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23083:16)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:23138:20)
+    at Eventified.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149115:19)
+    at MouseInputSource.eval [as _handleMouseUp] (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:259839:31)
+6-27-2024 14:51:11 - error: [PreviewInEditor] Cannot set property 'active' of undefinedTypeError: Cannot set property 'active' of undefined
+    at Controller.rutOpen (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/cd/file:/Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts:199:5)
+    at EventHandler.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:46036:19)
+    at Function.emitEvents (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:46000:19)
+    at Button._onTouchEnded (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:73959:35)
+    at CallbacksInvoker.emit (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:149113:28)
+    at NodeEventProcessor.dispatchEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49118:33)
+    at Node.dispatchEvent (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:50802:32)
+    at NodeEventProcessor._handleTouchEnd (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49444:16)
+    at NodeEventProcessor._handleEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:49399:27)
+    at PointerEventDispatcher.dispatchEventTouch (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129422:41)
+6-27-2024 14:51:15 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:51:24 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:51:24 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:51:24 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:51:25 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:51:25 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:51:25 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:51:25 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:51:25 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:51:26 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:51:29 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:51:29 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:51:47 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:52:48 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:52:48 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:52:48 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:52:49 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:52:49 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:52:49 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:52:49 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:52:49 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:52:50 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:52:53 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:52:53 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:53:10 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:53:59 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:54:00 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:54:00 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:54:01 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:54:01 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:54:01 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:54:01 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:54:02 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:54:02 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:54:03 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:54:06 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:54:06 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:54:08 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:54:51 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:54:53 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:54:53 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:54:53 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:54:53 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:54:54 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:54:54 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:54:54 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:54:54 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:54:55 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:54:58 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:54:58 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:55:15 - info: [PreviewInEditor] preview process is ready
+6-27-2024 14:55:34 - log: [PreviewInEditor] meshopt wasm decoder initialized
+6-27-2024 14:55:34 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+6-27-2024 14:55:34 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+6-27-2024 14:55:35 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+6-27-2024 14:55:35 - log: [PreviewInEditor] Cocos Creator v3.8.2
+6-27-2024 14:55:35 - info: [PreviewInEditor] Forward render pipeline initialized.
+6-27-2024 14:55:35 - warn: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [PreviewInEditor] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 14:55:35 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+6-27-2024 14:55:36 - info: [PreviewInEditor] DragonBones: 5.6.300
+Website: http://dragonbones.com/
+Source and Demo: https://github.com/DragonBones/
+6-27-2024 14:55:39 - warn: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM Avo_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:55:39 - warn: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font insteadError: [PreviewInEditor] Download Font [ "UTM AvoBold_0_LABEL" ] failed, using Arial or system default font instead
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at eval (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129604:7)
+6-27-2024 14:55:51 - info: [PreviewInEditor] preview process is ready
+6-27-2024 15:05:29 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:11:27 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:17:47 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:18:14 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:24:23 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:29:29 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-27-2024 15:29:29 - error: [Scene] Node with UUID 02waI36SlNdruS6j0MyVGA is not exist!Error: [Scene] Node with UUID 02waI36SlNdruS6j0MyVGA is not exist!
+    at /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/camera/2d/camera-controller-2d.ccc:1:5339
+    at Array.forEach (<anonymous>)
+    at CameraController2D.focus (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/camera/2d/camera-controller-2d.ccc:1:5275)
+    at Camera.focus (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/camera/index.ccc:1:8113)
+    at GeneralSceneFacade.focus (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:16785)
+    at SceneFacadeManager.focus (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:19451)
+    at step (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:748)
+6-27-2024 15:31:23 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 10:30:55 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:05:28 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:06:12 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:07:17 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:08:02 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:09:04 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:10:18 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:11:57 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:15:30 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:18:05 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:19:27 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:19:27 - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: SyntaxError: /file:/Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts: Unexpected token (338:2)
+
+  336 |     this.NoitceNode.active=false;
+  337 |     this.
+> 338 |   }
+      |   ^
+  339 | }
+  340 |
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/67/data:text/javascript,%0A%2F%2F%20This%20module%20is%20auto-generated%20to%20report%20error%20emitted%20when%20try%20to%20load%20module%20file%3A%2F%2F%2FUsers%2Fwaostudio%2FDesktop%2Fjackbot%2Fassets%2FScripts%2Ffolder%2FController.ts%20at%20runtime.%0Athrow%20new%20Error(%60SyntaxError%3A%20%2Ffile%3A%2FUsers%2Fwaostudio%2FDesktop%2Fjackbot%2Fassets%2FScripts%2Ffolder%2FController.ts%3A%20Unexpected%20token%20(338%3A2)%0A%0A%20%20336%20%7C%20%20%20%20%20this.NoitceNode.active%3Dfalse%3B%0A%20%20337%20%7C%20%20%20%20%20this.%0A%3E%20338%20%7C%20%20%20%7D%0A%20%20%20%20%20%20%7C%20%20%20%5E%0A%20%20339%20%7C%20%7D%0A%20%20340%20%7C%60)%3B%0A%20%20%20%20%20%20%20%20:3:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:311:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:194:13)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1843)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: SyntaxError: /file:/Users/waostudio/Desktop/jackbot/assets/Scripts/folder/Controller.ts: Unexpected token (338:2)
+
+  336 |     this.NoitceNode.active=false;
+  337 |     this.
+> 338 |   }
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/67/data:text/javascript,%0A%2F%2F%20This%20module%20is%20auto-generated%20to%20report%20error%20emitted%20when%20try%20to%20load%20module%20file%3A%2F%2F%2FUsers%2Fwaostudio%2FDesktop%2Fjackbot%2Fassets%2FScripts%2Ffolder%2FController.ts%20at%20runtime.%0Athrow%20new%20Error(%60SyntaxError%3A%20%2Ffile%3A%2FUsers%2Fwaostudio%2FDesktop%2Fjackbot%2Fassets%2FScripts%2Ffolder%2FController.ts%3A%20Unexpected%20token%20(338%3A2)%0A%0A%20%20336%20%7C%20%20%20%20%20this.NoitceNode.active%3Dfalse%3B%0A%20%20337%20%7C%20%20%20%20%20this.%0A%3E%20338%20%7C%20%20%20%7D%0A%20%20%20%20%20%20%7C%20%20%20%5E%0A%20%20339%20%7C%20%7D%0A%20%20340%20%7C%60)%3B%0A%20%20%20%20%20%20%20%20:3:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:311:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:194:13)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1843)
+    at Logger._logHandler (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:492)
+    at Logger.record (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5358)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3452)
+    at Executor._onModuleLoaded (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:359:22)
+    at SystemJS.onload (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:87:18)
+    at triggerOnload (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:538:7)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:19:27 - warn: [Scene] Missing class: 7f0eblj29tHiZnIe6B9KcgQError: [Scene] Missing class: 7f0eblj29tHiZnIe6B9KcgQ
+    at Object.classFinder (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2381)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:104373:34)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60162:30)
+    at _Deserializer._deserializeObject (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60116:29)
+    at _Deserializer._deserializeAndAssignField (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60283:38)
+    at _Deserializer._deserializeArray (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60144:40)
+    at _Deserializer._deserializeObject (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:60122:29)
+6-28-2024 11:19:27 - error: [Scene] Script "7f0eblj29tHiZnIe6B9KcgQ" attached to "GameController" is missing or invalid. Detailed information:
+Node path: "GameController"
+Script UUID: "7f0eb963-dbdb-4789-99c8-7ba07d29c810"
+Class ID: "7f0eblj29tHiZnIe6B9KcgQ"
+Error: [Scene] Script "7f0eblj29tHiZnIe6B9KcgQ" attached to "GameController" is missing or invalid. Detailed information:
+Node path: "GameController"
+Script UUID: "7f0eb963-dbdb-4789-99c8-7ba07d29c810"
+Class ID: "7f0eblj29tHiZnIe6B9KcgQ"
+
+    at report (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1393)
+    at reportByWalker (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1606)
+6-28-2024 11:19:43 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:23:02 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:26:14 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:27:26 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:32:53 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:35:12 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:38:28 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:53:52 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 11:55:04 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 12:39:42 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 12:42:47 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 13:13:45 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 13:17:12 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 13:23:11 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+6-28-2024 13:25:07 - warn: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.Error: [Scene] 'PageViewIndicatorComponent' is deprecated since v1.2.0, please use 'PageViewIndicator' instead.
+    at warn (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160729:12)
+    at warnID (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160911:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166324:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:166343:7)
+    at Object.execute (file:///Users/waostudio/Desktop/jackbot/temp/programming/packer-driver/targets/editor/chunks/02/020cd8517aa6837f2bde3db6b1f7e2c9466f1756.js:26:7)
+    at doExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)

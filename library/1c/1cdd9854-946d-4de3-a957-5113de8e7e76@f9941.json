@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vip4",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 0,
+      "width": 93,
+      "height": 78
+    },
+    "offset": {
+      "x": 3,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 99,
+      "height": 78
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -46.5,
+        -39,
+        0,
+        46.5,
+        -39,
+        0,
+        -46.5,
+        39,
+        0,
+        46.5,
+        39,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        6,
+        78,
+        99,
+        78,
+        6,
+        0,
+        99,
+        0
+      ],
+      "nuv": [
+        0.06060606060606061,
+        0,
+        1,
+        0,
+        0.06060606060606061,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -46.5,
+        "y": -39,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 46.5,
+        "y": 39,
+        "z": 0
+      }
+    },
+    "texture": "1cdd9854-946d-4de3-a957-5113de8e7e76@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

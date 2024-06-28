@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "CanGatAnimation",
+    "spriteFrames": [
+      "res/Minigame/ResMiniPoker/CanGat/cangat0",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@47308",
+      "res/Minigame/ResMiniPoker/CanGat/cangat1",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@50cb6",
+      "res/Minigame/ResMiniPoker/CanGat/cangat2",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@dde26",
+      "res/Minigame/ResMiniPoker/CanGat/cangat3",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@eb6f8",
+      "res/Minigame/ResMiniPoker/CanGat/cangat4",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@30edd",
+      "res/Minigame/ResMiniPoker/CanGat/cangat5",
+      "fef7ae2b-676e-4dcc-8c41-903a4eb17dae@6d6da"
+    ]
+  }
+}

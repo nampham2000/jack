@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_floating_text_bg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 558,
+      "height": 53
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 558,
+      "height": 53
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -279,
+        -26.5,
+        0,
+        279,
+        -26.5,
+        0,
+        -279,
+        26.5,
+        0,
+        279,
+        26.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        53,
+        558,
+        53,
+        0,
+        0,
+        558,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -279,
+        "y": -26.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 279,
+        "y": 26.5,
+        "z": 0
+      }
+    },
+    "texture": "1a8ddad6-d54e-46e9-a1b9-08a5da389545@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

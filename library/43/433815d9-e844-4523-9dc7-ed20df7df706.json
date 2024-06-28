@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "bg_body",
+    "spriteFrames": [
+      "default-1-2",
+      "433815d9-e844-4523-9dc7-ed20df7df706@a435d",
+      "default-1-3",
+      "433815d9-e844-4523-9dc7-ed20df7df706@d293c",
+      "default-1-4",
+      "433815d9-e844-4523-9dc7-ed20df7df706@8cea0",
+      "default-1-5",
+      "433815d9-e844-4523-9dc7-ed20df7df706@c3dc5",
+      "default-1",
+      "433815d9-e844-4523-9dc7-ed20df7df706@26ab7"
+    ]
+  }
+}

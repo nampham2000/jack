@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "mini-3cay",
+    "spriteFrames": [
+      "mini-3-cay-reel-bg",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@a5bbe",
+      "mini-3-cay-reel-win",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@0bc7b",
+      "mini-3cay-bg-jackpot",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@39f95",
+      "mini-3cay-bg",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@feb0b",
+      "mini-3cay-button-auto",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@c7996",
+      "mini-3cay-button-fast-spin",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@0482d",
+      "mini-3cay-button-stop",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@f2fae",
+      "mini-3cay-button",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@d5a25",
+      "mini-game-3-cay-2",
+      "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715@f1edb"
+    ]
+  }
+}

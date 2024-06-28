@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DOWN",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 173,
+      "height": 104
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 173,
+      "height": 104
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -86.5,
+        -52,
+        0,
+        86.5,
+        -52,
+        0,
+        -86.5,
+        52,
+        0,
+        86.5,
+        52,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        104,
+        173,
+        104,
+        0,
+        0,
+        173,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -86.5,
+        "y": -52,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 86.5,
+        "y": 52,
+        "z": 0
+      }
+    },
+    "texture": "c7ae50bb-98a2-4575-a11a-ab704048dfdb@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

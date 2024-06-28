@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MiniPoker-Quay",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 488,
+      "height": 53
+    },
+    "offset": {
+      "x": -10,
+      "y": 3.5
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -244,
+        -26.5,
+        0,
+        244,
+        -26.5,
+        0,
+        -244,
+        26.5,
+        0,
+        244,
+        26.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        2,
+        62,
+        490,
+        62,
+        2,
+        9,
+        490,
+        9
+      ],
+      "nuv": [
+        0.00390625,
+        0.140625,
+        0.95703125,
+        0.140625,
+        0.00390625,
+        0.96875,
+        0.95703125,
+        0.96875
+      ],
+      "minPos": {
+        "x": -244,
+        "y": -26.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 244,
+        "y": 26.5,
+        "z": 0
+      }
+    },
+    "texture": "47de6fac-faa8-4d43-8100-3ecf694f9b7f@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

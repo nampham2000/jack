@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icon_free",
+    "spriteFrames": [
+      "icon1",
+      "a6f34fd3-0e29-4568-962e-914e941aa0eb@282b6",
+      "icon2",
+      "a6f34fd3-0e29-4568-962e-914e941aa0eb@640c3",
+      "icon3",
+      "a6f34fd3-0e29-4568-962e-914e941aa0eb@4da49",
+      "icon4",
+      "a6f34fd3-0e29-4568-962e-914e941aa0eb@b893e"
+    ]
+  }
+}

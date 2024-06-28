@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ICONLOBBY.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nICONLOBBY.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGame\n  rotate: false\n  xy: 106, 5\n  size: 70, 24\n  orig: 70, 24\n  offset: 0, 0\n  index: -1\nLayer 65\n  rotate: false\n  xy: 2, 2\n  size: 102, 103\n  orig: 102, 103\n  offset: 0, 0\n  index: -1\nLayer 66\n  rotate: true\n  xy: 213, 23\n  size: 82, 92\n  orig: 82, 92\n  offset: 0, 0\n  index: -1\nLayer 66 copy\n  rotate: true\n  xy: 106, 31\n  size: 74, 105\n  orig: 74, 105\n  offset: 0, 0\n  index: -1\nMINI GAME FRAME\n  rotate: false\n  xy: 307, 75\n  size: 95, 30\n  orig: 95, 30\n  offset: 0, 0\n  index: -1\nMini\n  rotate: false\n  xy: 307, 50\n  size: 55, 23\n  orig: 55, 23\n  offset: 0, 0\n  index: -1\n"
+}

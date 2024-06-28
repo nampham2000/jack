@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "plate",
+    "spriteFrames": [
+      "plate-bat",
+      "9189f6dc-f734-4f55-bce5-5bb9e1d26646@45a84",
+      "plate-dia",
+      "9189f6dc-f734-4f55-bce5-5bb9e1d26646@85f2a",
+      "plate-xoc-1",
+      "9189f6dc-f734-4f55-bce5-5bb9e1d26646@197d8",
+      "plate-xoc-2",
+      "9189f6dc-f734-4f55-bce5-5bb9e1d26646@f3b64",
+      "plate-xoc-3",
+      "9189f6dc-f734-4f55-bce5-5bb9e1d26646@6a33f"
+    ]
+  }
+}

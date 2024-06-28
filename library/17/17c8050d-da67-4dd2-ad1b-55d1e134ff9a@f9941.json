@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "XengFont02_silver_export",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 491,
+      "height": 509
+    },
+    "offset": {
+      "x": -10.5,
+      "y": 1.5
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 512
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -245.5,
+        -254.5,
+        0,
+        245.5,
+        -254.5,
+        0,
+        -245.5,
+        254.5,
+        0,
+        245.5,
+        254.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        512,
+        491,
+        512,
+        0,
+        3,
+        491,
+        3
+      ],
+      "nuv": [
+        0,
+        0.005859375,
+        0.958984375,
+        0.005859375,
+        0,
+        1,
+        0.958984375,
+        1
+      ],
+      "minPos": {
+        "x": -245.5,
+        "y": -254.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 245.5,
+        "y": 254.5,
+        "z": 0
+      }
+    },
+    "texture": "17c8050d-da67-4dd2-ad1b-55d1e134ff9a@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

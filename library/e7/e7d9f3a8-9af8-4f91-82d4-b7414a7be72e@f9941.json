@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_BaoMat",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 1,
+      "width": 43,
+      "height": 47
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 50
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -21.5,
+        -23.5,
+        0,
+        21.5,
+        -23.5,
+        0,
+        -21.5,
+        23.5,
+        0,
+        21.5,
+        23.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        3,
+        49,
+        46,
+        49,
+        3,
+        2,
+        46,
+        2
+      ],
+      "nuv": [
+        0.06,
+        0.04,
+        0.92,
+        0.04,
+        0.06,
+        0.98,
+        0.92,
+        0.98
+      ],
+      "minPos": {
+        "x": -21.5,
+        "y": -23.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 21.5,
+        "y": 23.5,
+        "z": 0
+      }
+    },
+    "texture": "e7d9f3a8-9af8-4f91-82d4-b7414a7be72e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

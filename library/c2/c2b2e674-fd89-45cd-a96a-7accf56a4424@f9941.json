@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xephang",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 73,
+      "height": 69
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 73,
+      "height": 69
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -36.5,
+        -34.5,
+        0,
+        36.5,
+        -34.5,
+        0,
+        -36.5,
+        34.5,
+        0,
+        36.5,
+        34.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        69,
+        73,
+        69,
+        0,
+        0,
+        73,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -36.5,
+        "y": -34.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 36.5,
+        "y": 34.5,
+        "z": 0
+      }
+    },
+    "texture": "c2b2e674-fd89-45cd-a96a-7accf56a4424@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

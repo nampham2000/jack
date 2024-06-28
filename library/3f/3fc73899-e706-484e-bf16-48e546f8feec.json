@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "lines-0",
+    "spriteFrames": [
+      "line04",
+      "3fc73899-e706-484e-bf16-48e546f8feec@b0394",
+      "line05",
+      "3fc73899-e706-484e-bf16-48e546f8feec@ea2d8",
+      "line07",
+      "3fc73899-e706-484e-bf16-48e546f8feec@90a26",
+      "line08",
+      "3fc73899-e706-484e-bf16-48e546f8feec@7d4c0",
+      "line09",
+      "3fc73899-e706-484e-bf16-48e546f8feec@1c9d7",
+      "line10",
+      "3fc73899-e706-484e-bf16-48e546f8feec@1d46c",
+      "line17",
+      "3fc73899-e706-484e-bf16-48e546f8feec@83089",
+      "line18",
+      "3fc73899-e706-484e-bf16-48e546f8feec@67442",
+      "line19",
+      "3fc73899-e706-484e-bf16-48e546f8feec@3442d",
+      "line20",
+      "3fc73899-e706-484e-bf16-48e546f8feec@05160",
+      "line21",
+      "3fc73899-e706-484e-bf16-48e546f8feec@f5fcc",
+      "line22",
+      "3fc73899-e706-484e-bf16-48e546f8feec@08829",
+      "line23",
+      "3fc73899-e706-484e-bf16-48e546f8feec@2b650",
+      "line25",
+      "3fc73899-e706-484e-bf16-48e546f8feec@bee6d"
+    ]
+  }
+}

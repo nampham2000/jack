@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgdemthuonghai",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1429,
+      "height": 936
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1429,
+      "height": 936
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -714.5,
+        -468,
+        0,
+        714.5,
+        -468,
+        0,
+        -714.5,
+        468,
+        0,
+        714.5,
+        468,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        936,
+        1429,
+        936,
+        0,
+        0,
+        1429,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -714.5,
+        "y": -468,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 714.5,
+        "y": 468,
+        "z": 0
+      }
+    },
+    "texture": "d6590d2d-f9db-4577-baed-69d174335e93@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

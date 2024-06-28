@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FRAMETIENCUOC",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 301,
+      "height": 74
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 301,
+      "height": 74
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -150.5,
+        -37,
+        0,
+        150.5,
+        -37,
+        0,
+        -150.5,
+        37,
+        0,
+        150.5,
+        37,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        74,
+        301,
+        74,
+        0,
+        0,
+        301,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -150.5,
+        "y": -37,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 150.5,
+        "y": 37,
+        "z": 0
+      }
+    },
+    "texture": "b99950fe-9e21-48bd-bdc4-ce0034341bf2@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

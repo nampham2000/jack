@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "megajackpot_font_1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 74,
+      "height": 127
+    },
+    "offset": {
+      "x": -27,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 128,
+      "height": 128
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -37,
+        -63.5,
+        0,
+        37,
+        -63.5,
+        0,
+        -37,
+        63.5,
+        0,
+        37,
+        63.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        128,
+        74,
+        128,
+        0,
+        1,
+        74,
+        1
+      ],
+      "nuv": [
+        0,
+        0.0078125,
+        0.578125,
+        0.0078125,
+        0,
+        1,
+        0.578125,
+        1
+      ],
+      "minPos": {
+        "x": -37,
+        "y": -63.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 37,
+        "y": 63.5,
+        "z": 0
+      }
+    },
+    "texture": "77b11d1a-d99f-41ed-a210-0b4fe3510af5@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

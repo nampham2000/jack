@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_Mail",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 4,
+      "width": 50,
+      "height": 41
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 50
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -25,
+        -20.5,
+        0,
+        25,
+        -20.5,
+        0,
+        -25,
+        20.5,
+        0,
+        25,
+        20.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        46,
+        50,
+        46,
+        0,
+        5,
+        50,
+        5
+      ],
+      "nuv": [
+        0,
+        0.1,
+        1,
+        0.1,
+        0,
+        0.92,
+        1,
+        0.92
+      ],
+      "minPos": {
+        "x": -25,
+        "y": -20.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 25,
+        "y": 20.5,
+        "z": 0
+      }
+    },
+    "texture": "0873424e-7544-456d-ba7f-f39c2a00d36a@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

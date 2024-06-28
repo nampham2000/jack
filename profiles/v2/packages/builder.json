@@ -1,0 +1,110 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "useSplashScreen": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1718866015665": {
+        "type": "build",
+        "id": "1718866015665",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "6-20-2024 13:47:49 run package /Users/waostudio/Desktop/jackbot/build/web-desktop success!",
+        "options": {
+          "name": "jackbot",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "b0bdeeee-05b9-415f-af2a-3b0806c58092",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/MainGame.scene",
+              "uuid": "b0bdeeee-05b9-415f-af2a-3b0806c58092"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop6-20-2024 13-46.log"
+        },
+        "time": "6-20-2024 13:46:55",
+        "dirty": false
+      },
+      "1718866138040": {
+        "type": "build",
+        "id": "1718866138040",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "6-20-2024 13:58:56 run package /Users/waostudio/Desktop/jackbot/build/web-mobile success!",
+        "options": {
+          "name": "jackbot",
+          "server": "",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": false,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "b0bdeeee-05b9-415f-af2a-3b0806c58092",
+          "outputName": "web-mobile",
+          "taskName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/MainGame.scene",
+              "uuid": "b0bdeeee-05b9-415f-af2a-3b0806c58092"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-mobile6-20-2024 13-48.log"
+        },
+        "time": "6-20-2024 13:57:02",
+        "dirty": false
+      }
+    }
+  }
+}

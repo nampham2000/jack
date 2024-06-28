@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "freesipn",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 498,
+      "height": 97
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 498,
+      "height": 97
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -249,
+        -48.5,
+        0,
+        249,
+        -48.5,
+        0,
+        -249,
+        48.5,
+        0,
+        249,
+        48.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        97,
+        498,
+        97,
+        0,
+        0,
+        498,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -249,
+        "y": -48.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 249,
+        "y": 48.5,
+        "z": 0
+      }
+    },
+    "texture": "e02cb1f4-64eb-4d70-a485-64c08fdde257@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

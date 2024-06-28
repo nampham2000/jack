@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BONDG1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 215,
+      "height": 338
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 215,
+      "height": 338
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -107.5,
+        -169,
+        0,
+        107.5,
+        -169,
+        0,
+        -107.5,
+        169,
+        0,
+        107.5,
+        169,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        338,
+        215,
+        338,
+        0,
+        0,
+        215,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -107.5,
+        "y": -169,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 107.5,
+        "y": 169,
+        "z": 0
+      }
+    },
+    "texture": "46226e3c-7fef-4af1-9b65-cbf38cb30e8c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

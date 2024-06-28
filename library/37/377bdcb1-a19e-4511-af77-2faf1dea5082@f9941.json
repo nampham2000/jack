@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_3",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 485,
+      "height": 350
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 485,
+      "height": 350
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -242.5,
+        -175,
+        0,
+        242.5,
+        -175,
+        0,
+        -242.5,
+        175,
+        0,
+        242.5,
+        175,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        350,
+        485,
+        350,
+        0,
+        0,
+        485,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -242.5,
+        "y": -175,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 242.5,
+        "y": 175,
+        "z": 0
+      }
+    },
+    "texture": "377bdcb1-a19e-4511-af77-2faf1dea5082@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

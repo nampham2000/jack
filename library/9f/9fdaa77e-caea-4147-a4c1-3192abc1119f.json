@@ -1,0 +1,137 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "tienK",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "GvHP8pQhkcpTDVbNw7sjUWwpnSI",
+      "spine": "3.6.53",
+      "width": 89.28,
+      "height": 87.86,
+      "images": "../../../Spine_Lobby/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "10-daily/Sparkle",
+        "parent": "root",
+        "x": 18.06,
+        "y": 14.49,
+        "scaleX": 0.682,
+        "scaleY": 0.682
+      }
+    ],
+    "slots": [
+      {
+        "name": "12-tienk/DongK",
+        "bone": "root",
+        "attachment": "12-tienk/DongK"
+      },
+      {
+        "name": "10-daily/Sparkle",
+        "bone": "10-daily/Sparkle",
+        "attachment": "10-daily/Sparkle",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "10-daily/Sparkle": {
+          "10-daily/Sparkle": {
+            "color": "ffd068ff",
+            "x": 0.4,
+            "y": -0.59,
+            "width": 126,
+            "height": 127
+          }
+        },
+        "12-tienk/DongK": {
+          "12-tienk/DongK": {
+            "y": -1.98,
+            "width": 56,
+            "height": 57
+          }
+        }
+      }
+    },
+    "animations": {
+      "idle": {
+        "slots": {
+          "10-daily/Sparkle": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "10-daily/Sparkle": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.6667,
+                "angle": -57.9,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": -57.9
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.749,
+                "y": 0.749
+              },
+              {
+                "time": 0.6667,
+                "x": 1.019,
+                "y": 1.019,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 1.019,
+                "y": 1.019
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "a5a34ea6-216a-44a1-9354-0ce14beab6d7@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "tienK.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\r\ntienK.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n10-daily/Sparkle\r\n  rotate: false\r\n  xy: 2, 61\r\n  size: 126, 127\r\n  orig: 126, 127\r\n  offset: 0, 0\r\n  index: -1\r\n12-tienk/DongK\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 56, 57\r\n  orig: 56, 57\r\n  offset: 0, 0\r\n  index: -1\r\n"
+}

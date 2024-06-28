@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res/Minigame/ResMiniPoker/CanGat/cangat4",
+    "atlas": "fef7ae2b-676e-4dcc-8c41-903a4eb17dae",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 59,
+      "height": 142
+    },
+    "offset": {
+      "x": 0,
+      "y": -96
+    },
+    "originalSize": {
+      "width": 59,
+      "height": 334
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "1246e4a0-462e-4856-bc87-045553023dbb@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

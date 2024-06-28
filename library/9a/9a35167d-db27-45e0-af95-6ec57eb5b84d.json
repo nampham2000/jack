@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "spine",
+    "spriteFrames": [
+      "bigwin",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@c80d7",
+      "bonus",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@7bb0c",
+      "box1",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@fdd35",
+      "box2",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@025b4",
+      "freespin",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@7e42f",
+      "jackpot",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@48545",
+      "light",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@2aa03",
+      "light2",
+      "9a35167d-db27-45e0-af95-6ec57eb5b84d@6c08a"
+    ]
+  }
+}

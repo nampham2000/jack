@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icons",
+    "spriteFrames": [
+      "icon-1",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@bc26f",
+      "icon-2",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@ffe24",
+      "icon-3",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@ca535",
+      "icon-4",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@3517e",
+      "icon-5",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@49a37",
+      "icon-6",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@721b4",
+      "icon-7",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@5e906",
+      "icon-bonus",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@92e56",
+      "icon-box-1",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@5830f",
+      "icon-box-2",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@2e9fc",
+      "icon-diamond-2",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@f01c3",
+      "icon-diamond",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@bd5ee",
+      "icon-key-1",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@1b240",
+      "icon-x5",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@ce862",
+      "key-2",
+      "2bde1ecd-720c-475d-92ce-6448656d848e@b8636"
+    ]
+  }
+}

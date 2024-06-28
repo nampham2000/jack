@@ -1,0 +1,14 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 1560,
+      "height": 720,
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "script": {
+    "preserveSymlinks": true
+  }
+}

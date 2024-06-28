@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BT_DaiLy",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 318,
+      "height": 152
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 318,
+      "height": 152
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -159,
+        -76,
+        0,
+        159,
+        -76,
+        0,
+        -159,
+        76,
+        0,
+        159,
+        76,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        152,
+        318,
+        152,
+        0,
+        0,
+        318,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -159,
+        "y": -76,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 159,
+        "y": 76,
+        "z": 0
+      }
+    },
+    "texture": "47dfb7e4-1115-4454-9687-a1026931e78d@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

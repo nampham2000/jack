@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "font_number_x_fot",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "231a7d17-08f1-4e51-9f53-2cb5c4207581@f9941",
+    "__expectedType__": "cc.SpriteFrame"
+  },
+  "fontSize": 91,
+  "fntConfig": {
+    "commonHeight": 91,
+    "fontSize": 91,
+    "atlasName": "font_number_x_fot.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 80
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 8
+      },
+      "43": {
+        "rect": {
+          "x": 207,
+          "y": 260,
+          "width": 50,
+          "height": 59
+        },
+        "xOffset": 0,
+        "yOffset": 30,
+        "xAdvance": 51
+      },
+      "44": {
+        "rect": {
+          "x": 68,
+          "y": 263,
+          "width": 22,
+          "height": 26
+        },
+        "xOffset": 0,
+        "yOffset": 69,
+        "xAdvance": 23
+      },
+      "46": {
+        "rect": {
+          "x": 68,
+          "y": 291,
+          "width": 21,
+          "height": 21
+        },
+        "xOffset": 0,
+        "yOffset": 68,
+        "xAdvance": 22
+      },
+      "48": {
+        "rect": {
+          "x": 139,
+          "y": 89,
+          "width": 66,
+          "height": 86
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 67
+      },
+      "49": {
+        "rect": {
+          "x": 215,
+          "y": 0,
+          "width": 41,
+          "height": 84
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 42
+      },
+      "50": {
+        "rect": {
+          "x": 139,
+          "y": 177,
+          "width": 66,
+          "height": 84
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 67
+      },
+      "51": {
+        "rect": {
+          "x": 207,
+          "y": 87,
+          "width": 60,
+          "height": 86
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 61
+      },
+      "52": {
+        "rect": {
+          "x": 0,
+          "y": 86,
+          "width": 77,
+          "height": 84
+        },
+        "xOffset": 0,
+        "yOffset": 6,
+        "xAdvance": 78
+      },
+      "53": {
+        "rect": {
+          "x": 152,
+          "y": 0,
+          "width": 61,
+          "height": 85
+        },
+        "xOffset": 0,
+        "yOffset": 6,
+        "xAdvance": 62
+      },
+      "54": {
+        "rect": {
+          "x": 83,
+          "y": 0,
+          "width": 67,
+          "height": 87
+        },
+        "xOffset": 0,
+        "yOffset": 4,
+        "xAdvance": 68
+      },
+      "55": {
+        "rect": {
+          "x": 207,
+          "y": 175,
+          "width": 53,
+          "height": 83
+        },
+        "xOffset": 0,
+        "yOffset": 7,
+        "xAdvance": 54
+      },
+      "56": {
+        "rect": {
+          "x": 0,
+          "y": 172,
+          "width": 68,
+          "height": 86
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 69
+      },
+      "57": {
+        "rect": {
+          "x": 70,
+          "y": 172,
+          "width": 67,
+          "height": 88
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 68
+      },
+      "75": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 81,
+          "height": 84
+        },
+        "xOffset": 0,
+        "yOffset": 6,
+        "xAdvance": 82
+      },
+      "120": {
+        "rect": {
+          "x": 0,
+          "y": 260,
+          "width": 66,
+          "height": 59
+        },
+        "xOffset": 0,
+        "yOffset": 30,
+        "xAdvance": 67
+      }
+    },
+    "kerningDict": {}
+  }
+}

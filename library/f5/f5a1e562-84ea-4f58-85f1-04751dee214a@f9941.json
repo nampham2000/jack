@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hall_img_picFrame",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 241,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 241,
+      "height": 85
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -120.5,
+        -42.5,
+        0,
+        120.5,
+        -42.5,
+        0,
+        -120.5,
+        42.5,
+        0,
+        120.5,
+        42.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        85,
+        241,
+        85,
+        0,
+        0,
+        241,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -120.5,
+        "y": -42.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 120.5,
+        "y": 42.5,
+        "z": 0
+      }
+    },
+    "texture": "f5a1e562-84ea-4f58-85f1-04751dee214a@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

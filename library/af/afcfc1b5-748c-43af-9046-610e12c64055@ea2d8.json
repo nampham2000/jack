@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line05",
+    "atlas": "afcfc1b5-748c-43af-9046-610e12c64055",
+    "rect": {
+      "x": 140,
+      "y": 82,
+      "width": 121,
+      "height": 82
+    },
+    "offset": {
+      "x": -3,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 127,
+      "height": 82
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "6f3562b1-7fc7-4f6f-9c20-e481d70947a0@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

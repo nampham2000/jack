@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pop1Tab",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 780,
+      "height": 48
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 780,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -390,
+        -24,
+        0,
+        390,
+        -24,
+        0,
+        -390,
+        24,
+        0,
+        390,
+        24,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        48,
+        780,
+        48,
+        0,
+        0,
+        780,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -390,
+        "y": -24,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 390,
+        "y": 24,
+        "z": 0
+      }
+    },
+    "texture": "25f93350-1f3d-4000-b1b1-c80fed1c9499@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

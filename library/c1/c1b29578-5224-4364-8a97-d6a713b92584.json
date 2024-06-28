@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "icon_caothap",
+    "spriteFrames": [
+      "bg_A",
+      "c1b29578-5224-4364-8a97-d6a713b92584@903af",
+      "bg_caothap",
+      "c1b29578-5224-4364-8a97-d6a713b92584@fded5",
+      "bg_caothap_log",
+      "c1b29578-5224-4364-8a97-d6a713b92584@eb338",
+      "bg_hu",
+      "c1b29578-5224-4364-8a97-d6a713b92584@d7a20",
+      "buttom_an_non",
+      "c1b29578-5224-4364-8a97-d6a713b92584@c0fdf",
+      "button-play",
+      "c1b29578-5224-4364-8a97-d6a713b92584@035e6",
+      "caothap_down",
+      "c1b29578-5224-4364-8a97-d6a713b92584@1c939",
+      "caothap_up",
+      "c1b29578-5224-4364-8a97-d6a713b92584@263d7"
+    ]
+  }
+}

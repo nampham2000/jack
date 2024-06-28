@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_menu_btn_yuZhong",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 47,
+      "height": 38
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 48,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -23.5,
+        -19,
+        0,
+        23.5,
+        -19,
+        0,
+        -23.5,
+        19,
+        0,
+        23.5,
+        19,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        38,
+        47,
+        38,
+        0,
+        0,
+        47,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        0.9791666666666666,
+        0,
+        0,
+        1,
+        0.9791666666666666,
+        1
+      ],
+      "minPos": {
+        "x": -23.5,
+        "y": -19,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 23.5,
+        "y": 19,
+        "z": 0
+      }
+    },
+    "texture": "1adb9f59-62fa-4959-a12d-2a2c6945a42e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

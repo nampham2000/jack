@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "mini-game-button",
+    "spriteFrames": [
+      "button-chat",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@01d11",
+      "button-close-2",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@bda92",
+      "button-close",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@412a8",
+      "button-down",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@2f212",
+      "button-help",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@fc096",
+      "button-next-preview-2",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@967e0",
+      "button-next-preview",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@75089",
+      "button-rank",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@c3176",
+      "button-send",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@74ab9",
+      "button-tutorial",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@8ee2f",
+      "icon-chip-bg",
+      "8f5579b3-5a4b-4cdf-8a17-b08806f80bca@fc341"
+    ]
+  }
+}

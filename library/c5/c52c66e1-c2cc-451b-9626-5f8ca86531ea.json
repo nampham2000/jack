@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "TaiXiu_v2",
+    "spriteFrames": [
+      "dia",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@47d80",
+      "icon_tai",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@9dc4f",
+      "icon_xiu",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@006dc",
+      "nenDia",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@287a1",
+      "tx_bgChat",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@85b3c",
+      "tx_bgInput2",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@037be",
+      "tx_bg_board",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@12ac4",
+      "tx_bg_input",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@0d103",
+      "tx_bg_logMain",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@65503",
+      "tx_bgphien",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@e7632",
+      "tx_ef_c",
+      "c52c66e1-c2cc-451b-9626-5f8ca86531ea@8c189"
+    ]
+  }
+}

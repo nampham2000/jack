@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tele)",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 89,
+      "height": 94
+    },
+    "offset": {
+      "x": 1,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 91,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -44.5,
+        -47,
+        0,
+        44.5,
+        -47,
+        0,
+        -44.5,
+        47,
+        0,
+        44.5,
+        47,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        2,
+        97,
+        91,
+        97,
+        2,
+        3,
+        91,
+        3
+      ],
+      "nuv": [
+        0.02197802197802198,
+        0.03,
+        1,
+        0.03,
+        0.02197802197802198,
+        0.97,
+        1,
+        0.97
+      ],
+      "minPos": {
+        "x": -44.5,
+        "y": -47,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 44.5,
+        "y": 47,
+        "z": 0
+      }
+    },
+    "texture": "9067dc4b-dce3-4009-8ecf-38284f7349e4@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

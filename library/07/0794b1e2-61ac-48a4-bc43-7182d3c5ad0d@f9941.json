@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CHON LAI",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 156,
+      "height": 86
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 156,
+      "height": 86
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -78,
+        -43,
+        0,
+        78,
+        -43,
+        0,
+        -78,
+        43,
+        0,
+        78,
+        43,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        86,
+        156,
+        86,
+        0,
+        0,
+        156,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -78,
+        "y": -43,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 78,
+        "y": 43,
+        "z": 0
+      }
+    },
+    "texture": "0794b1e2-61ac-48a4-bc43-7182d3c5ad0d@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

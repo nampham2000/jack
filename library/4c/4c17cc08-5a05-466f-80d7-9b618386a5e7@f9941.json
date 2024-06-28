@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meirenyu_tex",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 830,
+      "height": 1754
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 830,
+      "height": 1755
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -415,
+        -877,
+        0,
+        415,
+        -877,
+        0,
+        -415,
+        877,
+        0,
+        415,
+        877,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        1755,
+        830,
+        1755,
+        0,
+        1,
+        830,
+        1
+      ],
+      "nuv": [
+        0,
+        0.0005698005698005698,
+        1,
+        0.0005698005698005698,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -415,
+        "y": -877,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 415,
+        "y": 877,
+        "z": 0
+      }
+    },
+    "texture": "4c17cc08-5a05-466f-80d7-9b618386a5e7@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

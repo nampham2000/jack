@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "bg_dialog",
+    "spriteFrames": [
+      "bg-c",
+      "7f5c6e01-f868-4672-9c19-d8e7ffd9a862@7ebd2",
+      "big-l",
+      "7f5c6e01-f868-4672-9c19-d8e7ffd9a862@fb06d",
+      "big-r",
+      "7f5c6e01-f868-4672-9c19-d8e7ffd9a862@b95ee"
+    ]
+  }
+}
